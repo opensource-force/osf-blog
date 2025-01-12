@@ -2,7 +2,7 @@
 
 A place for members of the Open Source Force community to publish articles.
 
-### [Visit the page](https://opensource-force.github.io/osf-blog/)
+### [Visit the Page](https://opensource-force.github.io/osf-blog/)
 
 ## Adding a Post
 
