@@ -12,8 +12,8 @@ A place for members of the Open Source Force community to publish articles.
 
 To preview your post while you write it, you can [install zola](https://www.getzola.org/documentation/getting-started/installation/) & run `zola serve` in the blog directory.
 
-[Theme Documentation](https://github.com/not-matthias/apollo)
-
 [Example Post Markdown](https://github.com/not-matthias/apollo/tree/main/content/posts)
+
+[Theme Documentation](https://github.com/not-matthias/apollo)
 
 [Built with Zola](https://www.getzola.org/)
