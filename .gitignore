@@ -5,4 +5,3 @@ dist/
 traces/
 *.DS_Store
 .cargo/
-public/
