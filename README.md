@@ -1,4 +1,4 @@
-# Adding a Post
+## Adding a Post
 
 * Fork the repository
 * Add a new .md file to the [post directory (./content/posts/)](./content/posts/)
