@@ -1,5 +1,5 @@
 +++
-title = "Constraints"
+title = "On boiling the ocean"
 date = "2025-01-12"
 updated = "2025-01-12"
 +++
