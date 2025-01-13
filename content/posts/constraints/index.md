@@ -4,9 +4,11 @@ date = "2025-01-12"
 updated = "2025-01-12"
 +++
 
+Author: [cyypherus](https://github.com/cyypherus)
+
 # Constraints
 
-Over the last year or so I've been on-and-off building a rust UI layout crate called [backer](https://github.com/cyypherus/backer). The project started with a very naiive approach, as things usually do, where the layout tree is traversed, each node splitting the available area into segments or reducing the area available to children for padding.
+Over the last year or so I've been on-and-off building a rust UI layout crate called [backer](https://github.com/cyypherus/backer). The project started with a very naive approach, as things usually do, where the layout tree is traversed, each node splitting the available area into segments or reducing the area available to children for padding.
 
 Perfect! It couldn't be more simple, why do frameworks complicate this so much! Let's try our first layout.
 
@@ -27,7 +29,7 @@ This is fine, now what happens when the available area decreases?
 
 ![2](2.png)
 
-Well, the entire naiive approach falls apart, everything is bad, & I am bad at software.
+Well, the entire naive approach falls apart, everything is bad, & I am bad at software.
 
 ## Onward!
 
