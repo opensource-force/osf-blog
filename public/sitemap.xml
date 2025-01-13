@@ -10,6 +10,13 @@
         <loc>https://opensource-force.github.io/osf-blog/posts/</loc>
     </url>
     <url>
+        <loc>https://opensource-force.github.io/osf-blog/posts/constraints/</loc>
+        <lastmod>2025-01-12</lastmod>
+    </url>
+    <url>
+        <loc>https://opensource-force.github.io/osf-blog/posts/page/1/</loc>
+    </url>
+    <url>
         <loc>https://opensource-force.github.io/osf-blog/tags/</loc>
     </url>
 </urlset>
