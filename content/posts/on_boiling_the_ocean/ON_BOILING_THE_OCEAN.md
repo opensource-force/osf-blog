@@ -1,3 +1,9 @@
++++
+title = "Constraints"
+date = "2025-01-12"
+updated = "2025-01-12"
++++
+
 #### from the desk of [planetnineisaspaceship][planetnine]
 
 # On boiling the ocean
@@ -83,7 +89,7 @@ In a big company you would have a systems architect or two who put together syst
 
 Let me show you some system architecture:
 
-![A very basic system architecture diagram](https://github.com/planet-nine-app/money/blob/main/docs/system_architecture.png)
+![A very basic system architecture diagram](system_architecture.png)
 
 I'm sure you can see why they make the big bucks.
 
@@ -154,4 +160,5 @@ Is it worth it to you to find out?
 
 [^2]: Ol' George penned Man and Superman in 1903, the same year Madame Curie was awarded the Nobel Prize for the first time. A writer friend of mine once admonished me for editing quotes to modern sensibilities of gender and race, but this quote, like the tech industry, and society in general is stupidly patriarchal, and I can't let it slide without comment.
 
-
+****
+****
