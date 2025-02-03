@@ -18,18 +18,24 @@ Alexander Graham Bell invents the telephone in the late nineteenth century, and 
 In 1913, AT&T bought the other telecommunications monopoly Western Union, who had consolidated the telegraph system as the telephone took market share.
 This was a little too close in time to Teddy Roosevelt's trust bustin' movement, and brought about the ire of the US government.
 
-Faced with commupance from the federal government, AT&T negotiated an out of court settlement called the [Kingsbury Commission].
-The Kingsbury Commission forced AT&T to divest itself from Western Union, and, important to our phone number story, forced them to allow smaller networks to connect to their long-distance infrastructure. 
+Faced with commupance from the federal government, AT&T negotiated an out of court settlement called the [Kingsbury Commitment][commitment].
+The Kingsbury Commitment forced AT&T to divest itself from Western Union, and, important to our phone number story, forced them to allow smaller networks to connect to their long-distance infrastructure. 
 This required AT&T and the other networks to start down the path on standardizing some sort of protocol for keeping their identifiers unique, and interoperable.
+
+And thus the phone number was born. 
+Of course phone numbers existed befoe then, and the history of how they worked before these networks got so large that everything was automated is actually pretty interesting (see for instance [Julia O'connor][julia], and the [Strowger switch][strowger]), but for our story here there are two things of note.
+First, this was the first time that a unified numerical identifier was granted to people by a non-government entity, and two to make up for AT&T having to share its network, the Kingsbury Commitment made it so that AT&T could boot unauthorized connections to its network.
 
 In the sixties, Thomas Carter invented the Carterfone, a device which was essentially a walkey-talkey connected to a phone receiver so folks could talk via radio to other folks on a phone.
 AT&T magnanimously told Carter to pound sand when he tried to use their network.
-This led the FCC to tell AT&T that not only did they have to allow Carter, but they had to allow anyone to connect to their network so long as it didn't harm the network. 
+Carter, whose invention was made for oil field workers so they could call for help when away from phone lines, took the issue to the FCC. 
 
 By the time Carter's case reached the FCC, the agency had started to recognize the need for computers to connect to each other.
 They used the carterfone case as an opportunity to revisit AT&T's ability to block devices from connecting to their network.
 AT&T was faced with a similar reality. 
-Carter's device was little more than a nuisance, but the rapid rise of computers, and the fact that their modems were largely supplied by AT&T's Bell Labs, meant allowing firms to connect to their network could be more lucrative than maintaining their monopoly. 
+
+Recognizing that connecting computers might just be lucrative enough to warrant competition against AT&T's network, AT&T and the FCC use the case as an opportunity to open AT&Ts network, for a modest fee of course, to the rapidly growing networks of computers popping up around the country.
+The Law of Unintended Consquences being what it is, Carter's case led to two decades of AT&T dominance, and then it's breakup in the early 80s. 
 
 I had to track down a picture of Thomas Carter to see what this legend looked like.
 I was not disappointed.
@@ -47,7 +53,9 @@ So to have any reasonable notion of who was behind the machine, we had to introd
 Nowadays there are a lot of auth protocols, but back in those days it was good ol' username and password.
 You need both because passwords can't be unique, and usernames don't need to be secret.
 
-And thus as Narsil was sundered as it severed the ring from Sauron's hand, the interoperability of this original network was broken. 
+This auth-tuple can't be shared between things that need to be logged into since those two things can't trust each other.
+This means different online things can't just assume that you username in one system is the same as the same username in another system.
+And thus, almost by definition, being user on a computer at the time meant giving up on interoperability.
 
 ## America goes online
 
@@ -68,7 +76,7 @@ Well that whole username and password thing was working just fine for computers 
 There are somewhere around 20,000 common six-letter words in English.
 You know how many people need to be selecting words before there's a 50% chance of two people selecting the same one?
 
-167.
+167
 
 Those of you who are known as ponies724 know what I'm talking about.
 
@@ -100,6 +108,12 @@ Now if you lookup how to do this you'll find a lot of things telling you not to,
 But I can't really tell if that's to keep the spam out, or to keep the people beholden to the email giants who are gatekeeping this in the first place.
 I mean, how do you feel they're doing at keeping out spam?
 
+### Email and/or phone number
+
+Email served _almost_ like the phone number for users.
+It became a single identifier that people could use everywhere, but the systems it was being used with weren't connected together--or at least weren't connected in a way that would benefit users.
+But we need to get to the next millenium to start filling in that story.
+
 Once the internet got going in full swing, AOL started to lose its shine, and people started looking to alternatives for email. 
 Hotmail, and Yahoo were the major players of the late nineties, and a lot of people jumped over.
 There were other factors of course, but the incredible flood of users claiming free emails is partly what fueled the dotcom bubble that saw Yahoo with a market valuation of $125 billion, and made Microsoft the highest market valued company in the world (do you see a trend here?).
@@ -107,9 +121,16 @@ There were other factors of course, but the incredible flood of users claiming f
 Then in 2000 the bubble would pop, and as so often happens the human phoenix of innovation would rise from the ashes.
 And as so doubly often happens, that phoenix would exploit the masses for profit.
 
+
+---------
+
+
+[Continue on to part 3](/posts/you_are_not_a_number/part-3)
+
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives
 [onion]: https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/
+[commitment]: https://en.wikipedia.org/wiki/Kingsbury_Commitment
 [birthday]: https://en.wikipedia.org/wiki/Birthday_problem
 [elwood]: https://en.wikipedia.org/wiki/Elwood_Edwards
 [oauth]: https://www.rfc-editor.org/rfc/rfc5849
@@ -119,6 +140,8 @@ And as so doubly often happens, that phoenix would exploit the masses for profit
 [investigation]: https://www.vice.com/en/article/fcc-propose-fines-verizon-att-sprint-tmobile-selling-location-data/
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
+[strowger]: https://en.wikipedia.org/wiki/Strowger_switch
+[julia]: https://en.wikipedia.org/wiki/Julia_O'Connor
 
 [^1]: "auth is short for authentication (authn) and authorization (authz). The former establishes who you are, and the latter establishes that you are able to do what you're trying to do. I like writing about auth, which is why I'm going to leave this as a footnote, and not add fifty paragraphs to this post."
 

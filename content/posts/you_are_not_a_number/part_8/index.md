@@ -46,12 +46,19 @@ These towers define a cell, and as you travel the Earth your phone switches from
 Now the telecomms companies aren't supposed to provide this data to anyone, but [of course they do][investigation], because when they got caught the FCC fined them a whole $200 million, a little under one dollar for everyone whose location they were selling.
 But even if the telecomms didn't sell this data, your phone would report it back anyways through background networking tasks, or just plain old checking your phone at a red light.
 
-Now location wouldn't be that big of an idea I guess if you didn't have at your disposal the largest database of location-based info on Earth. 
+Now location wouldn't be that big of a deal I guess if you didn't have at your disposal the largest database of location-based info on Earth. 
 But of course the company doing all of this _was_ the company with the largest database of location-based info on Earth. Almost as if this whole getcha phone to getcha location was planned or something.
 
 And what do you do with all this info?
 Well you know that creepy thing that happens sometimes where you were talking about a thing with a friend and then you start getting ads for it? 
 Well I have no doubt that sometimes you're being listened to, but most of the time what's happening is that one of you googles that thing, and then because google (and the rest of the gigantocorps for that matter) know that you were with that person, the ad netwroks serve you an ad about that thing too. 
+
+
+
+--------------
+
+
+[Continue to part 9](/posts/you_are_not_a_number/part-9)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

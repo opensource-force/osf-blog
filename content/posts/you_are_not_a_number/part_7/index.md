@@ -34,6 +34,13 @@ But the GDPR's reach across the pond is limited, and with politics being the cas
 We'll have to wait about a decade for where this really reers its head, but if you're already feeling uneasy, I wouldn't blame you.
 
 
+-------------
+
+
+[Continue to part 8](/posts/you_are_not_a_number/part-8)
+
+
+
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives
 [onion]: https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/

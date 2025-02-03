@@ -15,7 +15,7 @@ If you were cool, people with twitter could tweet right from your site.
 Eventually Twitter's openness ran into the problem that every open thing does, which is that bandits show up to shut down the party.
 In this case, the trouble was that people entering their Twitter password into random websites wasn't the best security practice. 
 
-To save the people from themselves, some very smart got together and came up with a protocol called OAuth.
+To save the people from themselves, some very smart computer folk got together and came up with a protocol called OAuth.
 It's successor OAuth2.0 would become as close to singularly dominant as software gets, being the method used by Google, Meta, Microsoft, and thus anything that uses them for authentication. 
 The original [OAuth rfc][oauth] is a pithy 38 pages, and well worth the read if you want to know more about auth.
 
@@ -31,7 +31,7 @@ In January of 2007, Steve Jobs stepped onto the Apple stage in his trademark bla
 Missing the opportunity to call it the phoneputer, the iPhone would launch that summer starting the smart phone on the trajectory towards arguably the most important product category on Earth. 
 The first android devices would launch the next year. 
 
-In 2005, only about 10-15% on humans owned computers, and none of those who did could take them _everywhere_ and use them _all the gosh darn time._
+In 2005, only about 10-15% of humans owned computers, and none of those who did could take them _everywhere_ and use them _all the gosh darn time._
 Fifteen years later, half of all humans owned computers, with almost all of that half owning a tiny computer that was coming with them everywhere they go. 
 And pretty much all of them were signed in to Google and Facebook. 
 
@@ -59,6 +59,14 @@ Moore's Law suggests that machines are 1,000 times more powerful today.
 Wright's Law suggests that that should correlate to a 90% decrease in price. 
 
 Do you feel like things in the cloud are 90% cheaper?
+
+
+
+-------------
+
+
+
+[Continue to part 6](/posts/you_are_not_a_number/part-6)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

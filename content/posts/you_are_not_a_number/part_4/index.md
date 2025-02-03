@@ -20,7 +20,7 @@ Luckily tech had the answer again!
 
 In 2002, an enterprising Canadian named Jonathan Abrams started work on a new social network.
 In early 2003 he launched Friendster. 
-Friendster introduced a new problem to internet--hyper scaling. 
+Friendster introduced a new problem to the internet--hyper scaling. 
 AOL had topped off around three million users.
 A decade later, Friendster would hit 100 million users, and making things work for those many people was a bit of a challenge.
 
@@ -61,9 +61,19 @@ In the world of digital monetization there's a big difference between people in 
 For a brief moment in time, everyone was touching code just a bit to make things fun on the internet. 
 It was beautiful, and important, and that shard of collective creativity was shattered by the most boring gray with blue accents bs like the time thieves in Momo. 
 
+| ![A meticulously curated black and pink themed MySpace page](./totally-rad.jpg) | ![facebook's garbage gray boring interface with some total chaches in a profile pic](./utter-garbage.jpg) |
+|:--:|:--:|
+| *It could have been this, but instead we got ads* | *The people who like this UI are the ones you worry about "making new friends" online now* |
+
 Of course, now we know who came out on top--a company who has single-handedly advanced disinformation and destructive rabbit holes in the name of ad-based profit moreso than any entity in history. 
 
 Tom, I wish you the best, but I wish you'd never left.
+
+
+------------
+
+
+[Continue to part 5](/posts/you_are_not_a_number/part-5)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
@@ -79,8 +89,8 @@ Tom, I wish you the best, but I wish you'd never left.
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^5]: "I told you not to look it up"
+[^5]: I told you not to look it up
 
-[^6]: "This story is a little different than what I've represented here, and this is mostly based on my recollection of the film the Social Network, which was itself inaccurate, but I don't much care. Facebook is the largest deseminator of disinformation on the planet, and I'm not too worried about them getting a turn."
+[^6]: This story is a little different than what I've represented here, and this is mostly based on my recollection of the film the Social Network, which was itself inaccurate, but I don't much care. Facebook is the largest deseminator of disinformation on the planet, and I'm not too worried about them getting a taste of their own medicine.
 
 

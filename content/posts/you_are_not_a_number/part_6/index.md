@@ -12,7 +12,7 @@ In 2008, no...let's go back a bit.
 
 Banks hold your money, and rather than charging you for the privelage of holding it, they re-invest it and make money off of that.
 Now if they invest in something nice and safe like a mortgage that someone can afford, your money's safe, and the bank makes its income.
-But if the bank goes and lays your money on red, and it spins black, you're money's gone.
+But if the bank goes and lays your money on red, and it spins black, your money's gone.
 That might not be a huge deal if the bank can make that money back before you ask for it, but if it doesn't that's a problem.
 
 In the 1920s, the bankers invested heavily in a stock market that could seemingly do no wrong.
@@ -62,6 +62,14 @@ Friendster and MySpace went home too early, leaving Facebook hanging around the 
 The phoneputers became the perfect device for all those folks without houses, and since people get bored they were hungry for something to do on the machines. 
 All the doom scrollers needed to scale was piles of money, and since nothing else was appetizing at the time, the VC-era took off.
 
+
+
+---------------
+
+
+[Continue to part 7](/posts/you_are_not_a_number/part-7)
+
+
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives
 [onion]: https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/
@@ -75,6 +83,6 @@ All the doom scrollers needed to scale was piles of money, and since nothing els
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^8]: "So banks don't hold a lot of cash, because cash is better used in investments. So to handle their day-to-day operation they borrow money for really short terms (like for a day) from money market funds. They pay this back with a small amount of interest, and that gets paid to the investors in the money market. When Lehman Brothers collapsed, the debt it owed to the money market represented money that was effectively gone."
+[^8]: So banks don't hold a lot of cash, because cash is better used in investments. So to handle their day-to-day operation they borrow money for really short terms (like for a day) from money market funds. They pay this back with a small amount of interest, and that gets paid to the investors in the money market. When Lehman Brothers collapsed, the debt it owed to the money market represented money that was effectively gone.
 
 

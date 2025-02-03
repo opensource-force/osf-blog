@@ -60,9 +60,18 @@ Handles proliferated so much that services created just to link to your online p
 
 So who am I?
 
-Ramdatooki, Zweibel (the german word for onion, but before I knew that I named myself after [T. Herman Zweibel][onion]), zkpunk, zachbabb at gmail/me/mac/icloud, zach at planetine/zkbabb, CurvatureTensor, planetnineisaspaceship...
+Ramdatooki, Zweibel (the german word for onion, but before I knew that I named myself after [T. Herman Zweibel][onion]), zkpunk, zachbabb at gmail/me/mac/icloud, zach at planetine/zkbabb, CurvatureTensor, planetnineisaspaceship...?
 
 Who are you?
+
+--------
+
+[Continue on to part 2](/posts/you_are_not_a_number/part-2)
+
+
+
+
+
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives

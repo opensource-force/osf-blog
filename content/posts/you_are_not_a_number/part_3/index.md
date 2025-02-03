@@ -27,11 +27,11 @@ One of these, was the humble search engine, and the best ones around were Yahoo,
 Thing is, Google was still private at the time, while the others were all public. 
 So when the dotcom bubble burst and imploded the other three's valuations, Google was comparitively unscathed.
 
-Now Google was still private for the same the bubble burst: lots of users, but no way to monetize them.
+Now Google was still private for the same reason the bubble burst: lots of users, but no way to monetize them.
 All those companies that had just evaporated from the bubble bursting had the silly notion that people would "pay" for the services they provided. 
 Google wasn't the first of course, but they were certainly the ones who went HAM on the idea of monetizing user behavior through advertising.
 
-They started by putting ads on their search results page, but in 2003 they released the real money maker. 
+They started by putting ads on their search results page, but in 2003 they released the real money maker.[^13]
 Google's ad sense platform would let content creators drop some small snippets of code on their sites that would serve ads to users based on what the users search history. 
 Serving _relevant_ ads to users improved engagement, which was more profitable for Google, the company advertising, and the content creator...well at least at first.
 
@@ -61,6 +61,13 @@ Seems fitting your next move would be to acquire a phone company right?
 
 In 2005 Google acquired Android to do just that.
 
+
+-----------
+
+
+[Continue to part 4](/posts/you_are_not_a_number/part-4)
+
+
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives
 [onion]: https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/
@@ -74,8 +81,9 @@ In 2005 Google acquired Android to do just that.
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^3]: "If you make your money from ads, I've got no beef with you. The ad-dispensing companies have made it their mission to encroach on your creative space as much as possible to extract value from your hard work. I'm here to help carve out a path to you making more money in addition to how you use the ad networks."
+[^3]: If you make your money from ads, I've got no beef with you. The ad-dispensing companies have made it their mission to encroach on your creative space as much as possible to extract value from your hard work. I'm here to help carve out a path to you making more money in addition to how you use the ad networks.
 
-[^4]: "When Google created a parent company Alphabet, Alphabet dropped the don't be evil. The don't be evil line moved to Google's code of conduct. I wanted to avoid inferring anything from this, but when you change something like don't be evil to anything else, it's worth a questioning glance."
+[^13]: If you look at Google's P&L statements, you'll see that search comprises by far the largest part of their revenue. What I mean here by saying the "real money maker" is that the adsense platform is what put google into every nook and cranny of your internet, and allowed them to charge what they charge for knowing who you are.
 
+[^4]: When Google created a parent company Alphabet, Alphabet dropped the don't be evil. The don't be evil line moved to Google's code of conduct. I wanted to avoid inferring anything from this, but when you change something like don't be evil to anything else, it's worth a questioning glance.
 
