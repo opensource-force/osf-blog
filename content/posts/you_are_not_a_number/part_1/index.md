@@ -4,7 +4,7 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 1 - You are not a number
+![Some of the numbers you are known by like phone number](./numbers.svg)
 
 I started college in 2000.
 There were a few mobile phones in the US back then (they were much more prevalent across the Pacific at that time), mostly in cars. 

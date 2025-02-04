@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 4 - Looking for my space
-
 ## Humans are social animals right?
 
 Somewhere in the early aughts, my friend bought the domain mauledbytigers.com and set up a message board. 

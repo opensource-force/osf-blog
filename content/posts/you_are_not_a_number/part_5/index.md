@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 5 - Aristophanes was right
-
 ## OAuth, and Web 2.0
 
 In 2006 a relatively minor player in this narrative joined the party. 
@@ -30,6 +28,8 @@ Sounds like an even trade right?
 In January of 2007, Steve Jobs stepped onto the Apple stage in his trademark black turtleneck, and told the world that Apple had put an iPod in a phone with the internet. 
 Missing the opportunity to call it the phoneputer, the iPhone would launch that summer starting the smart phone on the trajectory towards arguably the most important product category on Earth. 
 The first android devices would launch the next year. 
+
+![Steve Jobs unveils the iPhone](./steve.jpg)
 
 In 2005, only about 10-15% of humans owned computers, and none of those who did could take them _everywhere_ and use them _all the gosh darn time._
 Fifteen years later, half of all humans owned computers, with almost all of that half owning a tiny computer that was coming with them everywhere they go. 
@@ -57,6 +57,8 @@ Whether that was good or bad at the time I think could be discussed, but it cert
 This was nearly twenty years ago. 
 Moore's Law suggests that machines are 1,000 times more powerful today. 
 Wright's Law suggests that that should correlate to a 90% decrease in price. 
+
+![The substantial growth of Amazon's web service's revenue growth](./aws.png)
 
 Do you feel like things in the cloud are 90% cheaper?
 

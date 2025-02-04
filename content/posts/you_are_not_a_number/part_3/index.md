@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 3 - Out of the ashes
-
 ## Ahoy matey
 
 While the business world of the dotcom boom was preparing to burst, consumers were starting to learn that while waiting for an image to load on the internet was still slow, once it was on your machine, things were fast. 
@@ -26,6 +24,8 @@ One of these, was the humble search engine, and the best ones around were Yahoo,
 
 Thing is, Google was still private at the time, while the others were all public. 
 So when the dotcom bubble burst and imploded the other three's valuations, Google was comparitively unscathed.
+
+![The dotcom bubble bursting disappeared over 1.5 trillion dollars from the stock market](https://gudstory.s3.us-east-2.amazonaws.com/wp-content/uploads/2022/07/22030823/Dot-Com-Bubble-burst-750x586.jpg)
 
 Now Google was still private for the same reason the bubble burst: lots of users, but no way to monetize them.
 All those companies that had just evaporated from the bubble bursting had the silly notion that people would "pay" for the services they provided. 

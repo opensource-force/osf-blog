@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 2 - The twentieth century
-
 ## Interoperability
 
 For historical reasons, phone numbers and email have a very useful property: interoperability.
@@ -23,8 +21,14 @@ The Kingsbury Commitment forced AT&T to divest itself from Western Union, and, i
 This required AT&T and the other networks to start down the path on standardizing some sort of protocol for keeping their identifiers unique, and interoperable.
 
 And thus the phone number was born. 
-Of course phone numbers existed befoe then, and the history of how they worked before these networks got so large that everything was automated is actually pretty interesting (see for instance [Julia O'connor][julia], and the [Strowger switch][strowger]), but for our story here there are two things of note.
+Of course phone numbers existed before then, and the history of how they worked before these networks got so large that everything was automated is actually pretty interesting (see for instance [Julia O'connor][julia], and the [Strowger switch][strowger]), but for our story here there are two things of note.
 First, this was the first time that a unified numerical identifier was granted to people by a non-government entity, and two to make up for AT&T having to share its network, the Kingsbury Commitment made it so that AT&T could boot unauthorized connections to its network.
+
+### Banana phone
+
+|![A carterphone was a device that would connect to a telephone network via radio so people could walkey talkey other people over the phone](./carterphone.jpg)|
+|:--:|
+|*The Carterfone was a work of art*|
 
 In the sixties, Thomas Carter invented the Carterfone, a device which was essentially a walkey-talkey connected to a phone receiver so folks could talk via radio to other folks on a phone.
 AT&T magnanimously told Carter to pound sand when he tried to use their network.
@@ -67,6 +71,8 @@ Probabilities are usually represented as fractions less than one.
 In this case, if we had only two people the probability that they would _not_ have the same birthday is 364/365 since there are 364 days the second person could be born on that would be different than the first person's birthday. 
 The third person would then have a probability of 363/365 instead because now there are two different days that people have birthdays on. 
 You continue ticking down the numerator for each person added to the test.
+
+![A colorful picture to try and hide the boring math behind this problem](./birthday.jpeg)
 
 To find the total probability of this series of probabilities, you just multiply them all together, and when you do that for 23 people you get the probability that two people will have the same birthday just over 50%. 
 
