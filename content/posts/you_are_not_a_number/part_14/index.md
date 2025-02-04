@@ -10,18 +10,18 @@ updated = "2025-02-02"
 
 In 1964, supreme court justice Potter Stewart wrote,
 
-> I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description; and perhaps I could never succeed in intelligibly doing so. But I know it when I see it, and the motion picture involved in this case is not that.
+> I shall not today attempt further to define the kinds of material I understand to be embraced within that shorthand description [regarding what is, and is not pornography]; and perhaps I could never succeed in intelligibly doing so. But I know it when I see it, and the motion picture involved in this case is not that.
 
 The case concerns the showing of a French film, Les Amants (The Lovers), the parent's guide for this smutty offering on IMDB is the following:
 
-> The plot of this film revolves around a married woman's unhappiness with her marriage and her subsequent affairs with other men.One of these affairs becomes sexual within the plot of the film, and we see the couple kiss passionately while laying on a boat on a lake. There is a subsequent scene in which the two make love. While the sex is not shown explicitly, we do see breast nudity and from the erotic nature of the scene it is clear that both people are enjoying their lovemaking.
+> The plot of this film revolves around a married woman's unhappiness with her marriage and her subsequent affairs with other men. One of these affairs becomes sexual within the plot of the film, and we see the couple kiss passionately while laying on a boat on a lake. There is a subsequent scene in which the two make love. While the sex is not shown explicitly, we do see breast nudity and from the erotic nature of the scene it is clear that both people are enjoying their lovemaking.
 
 The most scandalous part of this is probably the depiction of a woman enjoying her love making.
 
 Now the government's standards of obscenity is one thing, and though this case was brought about due to the puritanism of Ohioans in the 1960s, I don't necessarily begrudge them setting their own standards for what is and what is not ok. 
 The case was appealed to the US Supreme Court where The Constitution superceded the states' laws, and the system worked.
 
-Many people who dive into anonymity in online identities tout themselves as first amendment purists, letting Nazis and smut peddlers alike hang out as equals with everyone else.
+Many people who dive into anonymity in online identities tout themselves as first amendment purists, letting nazis and smut peddlers alike hang out as equals with everyone else.
 Those of you still on Twitter may have noticed this.
 
 I'm not of that opinion--and while we're at it, neither is the US Federal Government.
@@ -35,15 +35,15 @@ But ignoring the legal nuance, the real question is, should you try and enforce 
 On social media platforms where your profile is who you are, and you have some sunk cost wrapped up in gained followers, getting banned matters.
 But on a platform where you can just spawn accounts at will, and reach people through some community space, what's the equivalent of a ban?
 
-Rather than get bogged down on what is, and what isn't obscene, w'll move forward by talking about dicks.
+Rather than get bogged down on what is, and what isn't obscene, we'll move forward by talking about dicks.
 Why? Because left to their own devices, dick-havers will put those things everywhere.
 So below as I say dicks, feel free to fill in the details of whatever lewd or illegal material you care more about.
 
-Whether or not putting a picture of a dick onto the internet in some capacity is illegal, is a matter of lacale, but the requirement that others should have to _view_ that dick is a matter of personal preference.
-So in order to create an anonymous platform that can handle both user preference for dicks, and some sort of excommunication for those who post dicks in places where it's illegal to do so.[^12]
+Whether or not putting a picture of a dick onto the internet in some capacity is illegal, is a matter of locale, but the requirement that others should have to _view_ that dick is a matter of personal preference.
+So the goal is to create an anonymous platform that can handle both user preference for dicks, and some sort of excommunication for those who post dicks in places where it's illegal to do so.[^12]
  
 Most social platforms allow for the opting in of NSFW content, and that seems like a good place to start. 
-But of course, that requires moderation since not everyone will add that flag to their NSFW content.
+But that requires moderation since not everyone will add that flag to their NSFW content.
 For our implementations, users will be able to add that tag, amongst others, so that people can filter out NSFW content without mod intervention. 
 Tagging lets us get more specific as some people might want to see dicks, but not other sex organs, or other sex organs, and not dicks. 
 
@@ -76,6 +76,13 @@ Maybe.
 But one problem at a time.
 
 
+--------------------
+
+
+[Continue to part 15](/posts/you_are_not_a_number/part-15)
+
+
+
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives
 [onion]: https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/
@@ -89,4 +96,4 @@ But one problem at a time.
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^12]: "There are, of course, things that are so heinous, that even if they're aren't illegal in the uploader's juristiction it will result in excommunication."
+[^12]: There are, of course, things that are so heinous, that even if they aren't illegal in the uploader's juristiction it will result in excommunication.

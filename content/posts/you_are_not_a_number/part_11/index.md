@@ -67,7 +67,7 @@ It's a good speech.
 I remember watching it as a kid, one of those memories that's not really continuous with anything else, just some moment you remember for some reason or another.
 There's a part where Scott's Patton says, "we're going to hold them by the nose, and kick them in the ass!" and my dad turned to me and said, "that's really what he did. His army would hold the front, and then attack the rear."
 
-And so when the richest man on Earth threw a nazi salute up at the inauguration of the president that my dad tried to overthrow the government for it hit a bit personally.
+And so when the richest man on Earth threw two nazi salutes up at the inauguration of the president that my dad tried to overthrow the government for it hit a bit personally.
 My dad may have forgotten about the war that his dad fought in, but hearing about it left an impression on me.
 
 So I figured what worked for Patton, might just work for me, and I got to work on the kick them in the ass part.
@@ -90,7 +90,15 @@ And what if we setup a mail server that gave everyone random site-by-site emails
 And then, what if we just signed up a few extra users every time you went somewhere, and poked around at some things?
 
 And thinking about that, what if we took all the accounts on social media that people are abandoning because of the nazi thing, and start handing them to people who turn them into zombie bots, and all of a sudden uuids like C6B20666-6AF4-4DF6-AB57-8F47A429D415 started being into different things? 
-What happens to the advertising platforms when all of the spying that they rely on suddenly becomes junk, _not_ because we undid 30 years and trillions of dollars worth of spying infrastructure, but because the number that they think we are just isn't us anymore?
+What happens to the advertising platforms when all of the spying that they rely on suddenly becomes junk, _not_ because we undid 30 years and trillions of dollars worth of spying infrastructure, but because the number that they think we are just aren't us anymore?
+
+
+
+--------------------
+
+
+[Continue to part 12](/posts/you_are_not_a_number/part-12)
+
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

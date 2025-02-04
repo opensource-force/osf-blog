@@ -16,7 +16,7 @@ In 1941, before a sunny baseball game between the Brooklyn Dodgers, and the Phil
 It cost $9 (close to $200 today) and aired to about 4,000 people. 
 I have no doubt that this would have opened the flood gates regardless of what was going on in the world, but as it would happen 1941 was a rather auspicious year.
 
-On December 7th of 1941, the Japanese attacked Pearl Harbor launching the United States into a full participant in World War II. 
+On December 7th of 1941, the Japanese attacked Pearl Harbor and the United States became a full participant in World War II. 
 To produce the kind of war-time provisions needed to fight that war, the government rationed a bunch of things.
 Pretty much any large manufacturer was rationed, or flat out bought up, by the government.
 
@@ -41,7 +41,7 @@ For your troubles, Nielsen would pay you a couple bucks, and sell your demograph
 ### The searchlights
 
 I was maybe twelve years old when the family was driving home from some dinner at some American suburban culinary stalwart, when we saw the hollywood spotlights scanning the skies near our house. 
-Intrigued, we ventured over to the grand opening of the hottest chain sweeping the nation in in the first half of the nineties: Blockbuster Video. 
+Intrigued, we ventured over to the grand opening of the hottest chain sweeping the nation in the first half of the nineties: Blockbuster Video. 
 We of course had a perfectly fine video rental shop we already frequented, but Blockbuster was new and shiny, and closer to home, so we were hooked.
 
 Blockbuster had a novel instrument for us--the Blockbuster card. 
@@ -55,6 +55,13 @@ Of course Blockbuster would blunder the world's transition from physicial to dig
 What Blockbuster was doing with your rental habits seems lost to the ages, but Netflix has partnered with Nielsen to provide that information at the very least. 
 
 And there you go, your tv too, just spying on you for advertisers to sell you more stuff.
+
+
+------------
+
+
+[Continue to part 10](/posts/you_are_not_a_number/part-10)
+
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

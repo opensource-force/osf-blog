@@ -8,16 +8,17 @@ updated = "2025-02-02"
 
 ## 1984 was a typo
 
-By 2014, the tech giant advertisers had the apparatus in place to effectively spy on everyone everywhere that they did anything digitally more or less anywhere on Earth.
+By 2014, the tech giant advertisers had the apparatus in place to effectively spy on everyone everywhere that a machine connected to other machines. Anything done digitally more or less anywhere on Earth was collected, processed, and sold.
 And out of their benevolence they used this information to create, and rapidly deliver, an unprecedented decade of creativity and techno-social progress never before seen.
 
 That's what happened right?[^9]
+I mean, at least we got airpods...
 
 Well if these assholes weren't making things that people wanted, what the heck were they doing?
 
 ## The algorithm
 
-Do you remember those math class games in grade school where'd you pick a number, and then do some math, and it'd always come out to the same number regardless of what you pickerd?
+Do you remember those math class games in grade school where'd you pick a number, and then do some math, and it'd always come out to the same number regardless of what you picked?
 Claude tells me this is a classic one:
 
 * Pick any number (1-99)
@@ -154,8 +155,14 @@ So when someone who you perceive as being different from you comes for your darl
 The sides become entrenched, and the surveilance apparatus grows in power.
 
 And that's why we're not going to try to do it that way.
-Instead, I hope that regardless of political affiliation, and the necessity of surveilance in the rule of law, we can agree that with respect to corporations, people should always have the option to opt out. 
+Instead, I hope that regardless of political affiliation, and your take on the necessity of surveilance in the rule of law, we can agree that with respect to corporations, people should always have the option to opt out. 
 Opting out's just such a gnarly mess, that we have to get creative. 
+
+
+---------
+
+
+[Continue to part 11](/posts/you_are_not_a_number/part-11)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
@@ -171,6 +178,6 @@ Opting out's just such a gnarly mess, that we have to get creative.
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^9]: "These jamokes reneged on so many dumb promises this time, but the one that I think just really sums it all up is Haven, the healthcare venture that Warren Buffet and Jeff Bezos started to fix healthcare. It shudown unceremoniously in 2021, after doing nothing. The second richest man on Earth just gives up after a couple of years, because something's too hard, what a ballsack."
+[^9]: These jamokes reneged on so many dumb promises during this time, but the one that I think just really sums it all up is Haven, the healthcare venture that Warren Buffet and Jeff Bezos started to fix healthcare. It shutdown unceremoniously in 2021, after doing nothing. The second richest man on Earth just gives up after a couple of years, because something's too hard, what a ballsack.
 
 

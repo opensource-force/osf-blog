@@ -20,7 +20,7 @@ It makes it easier to convince yourself that you're doing the right thing, becau
 After all, they were dumb enough to become numbers.
 
 But I'd imagine that faced by some similarly nefarious captor dictating to us just what number we had to be our reactions might be similar to the prisoner's... unless we were actual prisoners where this is exactly what happens.
-And at the risk of a reductio ad Hitler, let's also remember how the nazis assigned numbers to the jews and members of other groups they wanted to extinguish. 
+And at the risk of a reductio ad Hitler, let's also remember how the nazis assigned numbers to Jewish people and members of other groups they wanted to extinguish. 
 
 #### A brief aside on how computers work, and how we can't get rid of numbers all together
 
@@ -108,7 +108,7 @@ And then maybe that random app free trial you signed up for can just go away rat
 #### What about my phone number?
 
 Have you seen The Wire?
-If you haven't you should immediately stop reading this, and dedicated the next five seasons worth of tv you watch to the greatest show ever made.
+If you haven't you should immediately stop reading this, and dedicate the next five seasons worth of tv you watch to the greatest show ever made.
 If you have, you know just how easy it is to get burner phone numbers. 
 
 It isn't your number that matters for the six numbers the website sends you, it's the notion that that phone number is attached to a device that's on your person at all times. 
@@ -119,6 +119,13 @@ At least that's the short-term solution.
 Long-term, we become our own carrier with some kind of rotating number system that follows the law, and doesn't get shared with gigantocorps.
 But Rome wasn't built in a day.
 
+
+
+
+---------------------
+
+
+[Continue to part 13](/posts/you_are_not_a_number/part-13)
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives

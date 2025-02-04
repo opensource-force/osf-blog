@@ -16,7 +16,7 @@ Since we were the only way to get these phones, our store served the plebes and 
 I handled a number of these special transactions, and it was after helping a very nice family get iPhones on their account where the account holder was a certain retired Bulls basketball player who might take it personally if I further reveal who he was, that I realized I was in the wrong business.
 
 I decided then to go back to school.
-It took two years to get all those ducks in a row, but in 2010, I sold or donated about 90% of my possesions, loaded the rest of everythning I owned into my 2000 Camry, and moved out to Portland, OR. to go back to Reed College, the school I had done my freshman year at a decade earlier.
+It took two years to get all those ducks in a row, but in 2010, I sold or donated about 90% of my possesions, loaded the rest of everything I owned into my 2000 Camry, and moved out to Portland, OR. to go back to Reed College, the school I had done my freshman year at a decade earlier.
 
 Moving is scary.
 Leaving our comfort zones, the people we know and love, our haunts, the places we feel safe, our _communities_...that's scarier to most of us than even death.
@@ -53,7 +53,7 @@ I want to be clear that I really like the Fediverse, and AT-protocol endeavors l
 They are absolutely a step in the right direction, and if they were built now, I think they would have been more careful with how identity was handled. 
 As they exist, the protocols are set, and changing protocols is very difficult as ipv6, tls 1.3, and HTTP/2 can attest to.
 
-The goal is to reward and monetize the content creators on these platforms for blazing the trail, but monetization is out of the scope of this doc. 
+The goal is to reward and monetize the content creators on these platforms for blazing the trail, but monetization is out of the scope of this doc.[^14] 
 
 ## We're living in a society
 
@@ -88,7 +88,7 @@ Then it was the Manor.
 
 and so on.
 
-The places are third places. 
+These places are third places. 
 Your home is the first place, your job the second place, and your third place is where you go for your community.
 Instagram is not your community.
 
@@ -124,7 +124,7 @@ You don't like the place, you're under no obligation to stay.
 
 And so now when you leave one of these platforms where you've sunk a decade into building followers, you've got followers already because they're part of your _community_.
 
-This isn't some far fetched dream, it's how the whole internet worked before they decided you had to be you online.
+This isn't some far fetched dream, it's how the whole internet worked before they decided you had to be *you* online.
 If you wanted to see what shows were playing that weekend, you'd hop into some chatroom for your genre of choice in your locale, give yourself the handle musicdude22, and just ask.
 People would just like tell you.
 
@@ -132,6 +132,11 @@ Then maybe you'd hang around for a while, chat about tunes, learn some new bands
 Maybe you come back, maybe you don't it doesn't matter. 
 The chatroom lives on, just sitting there to help the next audiophile find their next show. 
 
+
+------------------
+
+
+[Continue to part 14](/posts/you_are_not_a_number/part-14)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
@@ -147,5 +152,6 @@ The chatroom lives on, just sitting there to help the next audiophile find their
 [oh-the-forties-were-a-looong-time-ago]: https://www.nationalgeographic.com/history/article/141207-world-war-advertising-consumption-anniversary-people-photography-culture
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
-[^11]: "Both The Fediverse, and Bluesky are implementations of distributed systems based on underlying protocols. The Fediverse's ActivityPub protocol, and thus The Fediverse, came first, but despite the first-mover advantage, lags behind Bluesky these days in user adoption. The reason for this is a combo of marketing and usability, and definitely outside of the scope of this footnote."
+[^11]: Both The Fediverse, and Bluesky are implementations of distributed systems based on underlying protocols. The Fediverse's ActivityPub protocol, and thus The Fediverse, came first, but despite the first-mover advantage, lags behind Bluesky these days in user adoption. The reason for this is a combo of marketing and usability, and definitely outside of the scope of this footnote.
 
+[^14]: Well I can't completely leave out the money. The idea is to make it much easier to transact on the internet, using the existing financial system, by being able to purchase from user content directly instead of needing it to redirect you to a store. 

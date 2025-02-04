@@ -12,7 +12,7 @@ I've been working on solving the problem of advertising and digital identity for
 I've released things in fits and starts just trying to get people on board with the idea of not putting their birthdays into random online forms.
 But the road to progress is always winding.
 
-Then on January 20th, four smiling billionaires, and two Nazi salutes, and the subsequent fellating of these dickheads by "entrepreneurs," and wallstreet bros, gives a very simple entry point into doing something. 
+Then on January 20th, four smiling billionaires, and two nazi salutes, and the subsequent fellating of these dickheads by "entrepreneurs," and wallstreet bros, gives a very simple entry point into doing something. 
 
 This isn't a political thing, and it isn't an American thing.
 Regardless of who you are, wanting a world where your every online action isn't spied upon shouldn't be controversial. 
