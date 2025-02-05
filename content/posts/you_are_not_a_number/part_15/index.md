@@ -10,7 +10,7 @@ I've been working on solving the problem of advertising and digital identity for
 I've released things in fits and starts just trying to get people on board with the idea of not putting their birthdays into random online forms.
 But the road to progress is always winding.
 
-Then on January 20th, four smiling billionaires, and two nazi salutes, and the subsequent fellating of these dickheads by "entrepreneurs," and wallstreet bros, gave a very simple entry point into doing something. 
+Then on January 20th, four smiling billionaires, two nazi salutes, and the subsequent fellating of these dickheads by "entrepreneurs," and wallstreet bros, gave a very simple entry point into doing something. 
 
 This isn't a political thing, and it isn't an American thing.
 Regardless of who you are, wanting a world where your every online action isn't spied upon shouldn't be controversial. 
@@ -18,7 +18,7 @@ Regardless of who you are, wanting a world where your every online action isn't 
 So let's focus on that for like a year. 
 We'll be back to fighting about politics soon enough, but before that let's take these billionaires down a peg.
 
-I call the group who does this, The Advancemet, and everyone, except for actual Nazis, are invited.
+I call the group who does this, The Advancemet, and everyone, except for actual nazis, are invited.
 All you have to do is install a browser extension, and/or download an app.
 Those of us in The Advancement who make those things, will take it from there.
 And you can spend your time doing whatever you love to do, and not have to worry about billionaires in your bedroom.
@@ -36,7 +36,7 @@ And then to get involved...well I'll let Captain Ron explain how it works.
 
 You just start doing stuff. 
 It doesn't matter if its small, or special, or crucial, or anything.
-Just start doing stuff with the club, because the point isn't that one thing, the point is to get the boat all the way to where it's going, and that's a long-term goal.
+Just start doing stuff with the club, because the point isn't that one thing, the point for the club, in Ron's case here the crew, is to get the boat all the way to where it's going, and that's a long-term goal.
 
 ## Getting on the boat
 
@@ -61,9 +61,20 @@ But the volcano in the middle of the island is rumbling, and threatening to pour
 I'm going to keep building the boat one way or another.
 If you want to help, you just have to come aboard.
 
+The easiest way to do that until the end of February or so, is going to be to join us on discord: [https://discord.gg/M5V8Xwm](https://discord.gg/M5V8Xwm). 
+
+Or email me at zach at planetnine.app -- that one still works for now 🙂
+
+<br>
+
+**There's room for everyone in the revolution friend.
+I hope to see you aboard.**
+
+<br>
 
 ---------------------------
 
+<br>
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives

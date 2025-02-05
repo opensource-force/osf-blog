@@ -73,10 +73,11 @@ And then, what if we just signed up a few extra users every time you went somewh
 And thinking about that, and c), what if we took all the accounts on social media that people are abandoning because of the nazi thing, and start handing them to people who turn them into zombie bots, and all of a sudden uuids like C6B20666-6AF4-4DF6-AB57-8F47A429D415 started being into different things? 
 What happens to the advertising platforms when all of the spying that they rely on suddenly becomes junk, _not_ because we undid 30 years and trillions of dollars worth of spying infrastructure, but because the numbers that they think we are just aren't us anymore?
 
-
+<br>
 
 --------------------
 
+<br>
 
 [Continue to part 12](/posts/you_are_not_a_number/part-12)
 

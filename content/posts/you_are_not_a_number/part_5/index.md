@@ -62,11 +62,11 @@ Wright's Law suggests that that should correlate to a 90% decrease in price.
 
 Do you feel like things in the cloud are 90% cheaper?
 
+<br>
 
+------------
 
--------------
-
-
+<br>
 
 [Continue to part 6](/posts/you_are_not_a_number/part-6)
 

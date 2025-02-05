@@ -1,5 +1,5 @@
 +++
-title = "Part 12 - The Advancement"
+title = "Part 12 - The First Charge"
 date = "2025-02-02"
 updated = "2025-02-02"
 +++
@@ -122,6 +122,12 @@ At least that's the short-term solution.
 Long-term, we become our own carrier with some kind of rotating number system that follows the law, and doesn't get shared with gigantocorps.
 But Rome wasn't built in a day.
 
+## The Advancement's first charge
+
+The collective effort to undo the damage The Advertisement has wrought is called The Advancement, and this is its first charge.
+_Proliferate_ identities across cyberspace, and do so with something so easy to use, that all anyone has to do is install it.
+You don't have to lose the ability to be yourself, but you gain the ability to be whomever you want.
+
 ## Getting creative
 
 A surprising amount of the way I interpret the world comes from playing the original Final Fantasy when I was like six or seven lol.
@@ -152,9 +158,11 @@ That's what the internet's for goshdarnit!
 
 I want this back.
 
+<br>
 
 ---------------------
 
+<br>
 
 [Continue to part 13](/posts/you_are_not_a_number/part-13)
 

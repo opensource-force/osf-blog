@@ -61,9 +61,11 @@ Seems fitting your next move would be to acquire a phone company right?
 
 In 2005 Google acquired Android to do just that.
 
+<br>
 
------------
+---------
 
+<br>
 
 [Continue to part 4](/posts/you_are_not_a_number/part-4)
 

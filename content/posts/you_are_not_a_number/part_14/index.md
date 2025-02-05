@@ -73,9 +73,11 @@ And if you do want to post, but you don't want to buy anything, you can use open
 Maybe. 
 But one problem at a time.
 
+<br>
 
 --------------------
 
+<br>
 
 [Continue to part 15](/posts/you_are_not_a_number/part-15)
 

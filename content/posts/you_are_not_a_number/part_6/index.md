@@ -66,10 +66,11 @@ Friendster and MySpace went home too early, leaving Facebook hanging around the 
 The phoneputers became the perfect device for all those folks without houses, and since people get bored they were hungry for something to do on the machines. 
 All the doom scrollers needed to scale was piles of money, and since nothing else was appetizing at the time, the VC-era took off.
 
-
+<br>
 
 ---------------
 
+<br>
 
 [Continue to part 7](/posts/you_are_not_a_number/part-7)
 

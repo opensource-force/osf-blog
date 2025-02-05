@@ -35,9 +35,11 @@ Without the GDPR, everyone would get to track you without you being none the wis
 But the GDPR's reach across the pond is limited, and with politics being the cash-hungry beast it is, the gigantocorps coffers wield non-negligible influence around here, and would regardless of who's in charge.
 We'll have to wait about a decade for where this really reers its head, but if you're already feeling uneasy, I wouldn't blame you.
 
+<br>
 
 -------------
 
+<br>
 
 [Continue to part 8](/posts/you_are_not_a_number/part-8)
 

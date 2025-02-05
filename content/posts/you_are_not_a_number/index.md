@@ -8,6 +8,16 @@ Join planetnineisaspaceship as he takes you on a ride back through time on how w
 
 And what we can do about it.
 
+_leave it to planet to write a **15 part** screed on digital identity--ain't nobody got time for that_
+
+I gaurantee you the parts are short and fun, but if you are indeed pressed for time, just read [part 12 - The First Charge](http://127.0.0.1:1111/posts/you_are_not_a_number/part-12), and [part 15 - You're invited](http://127.0.0.1:1111/posts/you_are_not_a_number/part-15)
+
+<br>
+
+-----------
+
+<br>
+
 [part 1 - You are not a number](http://127.0.0.1:1111/posts/you_are_not_a_number/part-1)
 
 An intro to the topic of digital identity, and how everyone has become just a set of eyeballs to market to.
@@ -38,16 +48,32 @@ Sigh...Citizen's United
 
 [part 8 - The cell saga](http://127.0.0.1:1111/posts/you_are_not_a_number/part-8)
 
+Here's how they know where you are
+
 [part 9 - Are you entertained](http://127.0.0.1:1111/posts/you_are_not_a_number/part-9)
+
+How they got into your TV
 
 [part 10 - Data dreams by algorhythmics soundds pretty boring](http://127.0.0.1:1111/posts/you_are_not_a_number/part-10)
 
+Let's talk about "The Algorithm"
+
 [part 11 - Then there were nazis](http://127.0.0.1:1111/posts/you_are_not_a_number/part-11)
 
-[part 12 - The Advancement](http://127.0.0.1:1111/posts/you_are_not_a_number/part-12)
+Like Elwood and Jake, I hate nazis
+
+[part 12 - The First Charge](http://127.0.0.1:1111/posts/you_are_not_a_number/part-12)
+
+How we can start reclaiming ourselves online
 
 [part 13 - The third place](http://127.0.0.1:1111/posts/you_are_not_a_number/part-13)
 
+Community
+
 [part 14 - This part deals with internet denizens' proclivity for posting nudity online. If this makes you uncomfortable, feel free to skip it.](http://127.0.0.1:1111/posts/you_are_not_a_number/part-14)
 
+How to deal with bad actors
+
 [part 15 - You're invited](http://127.0.0.1:1111/posts/you_are_not_a_number/part-15)
+
+There's a boat...all you've got to do is hop aboard

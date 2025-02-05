@@ -158,9 +158,11 @@ And that's why we're not going to try to do it that way.
 Instead, I hope that regardless of political affiliation, and your take on the necessity of surveilance in the rule of law, we can agree that with respect to corporations, people should always have the option to opt out. 
 Opting out's just such a gnarly mess, that we have to get creative. 
 
+<br>
 
 ---------
 
+<br>
 
 [Continue to part 11](/posts/you_are_not_a_number/part-11)
 

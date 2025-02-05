@@ -67,9 +67,11 @@ Of course, now we know who came out on top--a company who has single-handedly ad
 
 Tom, I wish you the best, but I wish you'd never left.
 
+<br>
 
-------------
+---------
 
+<br>
 
 [Continue to part 5](/posts/you_are_not_a_number/part-5)
 

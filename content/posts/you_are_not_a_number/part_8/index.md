@@ -59,10 +59,11 @@ And what do you do with all this info?
 Well you know that creepy thing that happens sometimes where you were talking about a thing with a friend and then you start getting ads for it? 
 Well I have no doubt that sometimes you're being listened to, but most of the time what's happening is that one of you googles that thing, and then because google (and the rest of the gigantocorps for that matter) know that you were with that person, the ad netwroks serve you an ad about that thing too. 
 
-
+<br>
 
 --------------
 
+<br>
 
 [Continue to part 9](/posts/you_are_not_a_number/part-9)
 

@@ -127,9 +127,11 @@ There were other factors of course, but the incredible flood of users claiming f
 Then in 2000 the bubble would pop, and as so often happens the human phoenix of innovation would rise from the ashes.
 And as so doubly often happens, that phoenix would exploit the masses for profit.
 
+<br>
 
----------
+--------
 
+<br>
 
 [Continue on to part 3](/posts/you_are_not_a_number/part-3)
 

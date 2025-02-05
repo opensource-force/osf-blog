@@ -60,9 +60,11 @@ What Blockbuster was doing with your rental habits seems lost to the ages, but N
 
 And there you go, your tv too, just spying on you for advertisers to sell you more stuff.
 
+<br>
 
 ------------
 
+<br>
 
 [Continue to part 10](/posts/you_are_not_a_number/part-10)
 

@@ -139,9 +139,11 @@ It doesn't matter.
 
 The chatroom lives on, just sitting there to help the next audiophile find their next show. 
 
+<br>
 
 ------------------
 
+<br>
 
 [Continue to part 14](/posts/you_are_not_a_number/part-14)
 
