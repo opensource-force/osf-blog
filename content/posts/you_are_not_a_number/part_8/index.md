@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 8 - The cell saga
-
 ## Two-factorin'
 
 So it's the late aughts, you're Google, you have a near monopoly on where people are logging in because they're all using your email, and now, thanks to the benevolence of your Android operating system, you know everyone's phone numbers, and can even construct a social graph similar to Facebook's via access to people's contacts.
@@ -23,6 +21,10 @@ Google, and others with 2FA, said, "no problem, we'll just use your phone number
 But then the question became what if you had your phone stolen, or you lost it.
 Well then the security of 2FA would be dependent on the carriers' ability to protect your interests.
 
+|![A sim swap image, with a bandit dressed like the bandit he is](./bandit.jpeg)|
+|:--:|
+|*If only all bandits would show up in uniform*|
+
 Now I've worked retail, and I have the utmost respect for people who do, and their capabilities.
 I do not have much faith in the corporations who pay these good people a pittance to be on their frontline.
 A company who does that, probably isn't going to put much thought into making sure you're you when you go to replace your phone.
@@ -38,6 +40,10 @@ If you're not old like me I'd be curious what your thoughts are on that practice
 
 Have you ever wondered what the cell in cellular refers to? 
 I hadn't until I started researching this whole rigamarole. 
+
+|![A simple sketch of the cells in a cellular network](https://www.researchgate.net/profile/Jianjun-Yang-3/publication/263316201/figure/fig2/AS:667618981715968@1536184177139/A-topology-of-a-cellular-network.png)|
+|:--:|
+|*A cellular network*|
 
 Our phones communicate wirelessly, and since they're small, the distance that they can communicate at is fairly limited.
 So to accommodate them, cell towers are setup every so often around the Earth for them to connect to.

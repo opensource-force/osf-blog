@@ -4,33 +4,7 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 11 - Then there were nazis
-
-## Getting creative
-
-A surprising amount of the way I interpret the world comes from playing the original Final Fantasy when I was like six or seven lol.
-When you start that game, you select four characters, and you give them a name. 
-Your entry point into this world is this ontological decision about who you are, and who is coming along with you. 
-
-Voice acting ruined this subtle yet powerful notion. 
-_I_ was no longer the protagonist in my game, and my party was no longer my friends. 
-I was just a passenger on a ride packaged up for me in design studios around the world--still fun to be sure, but missing just that little something.
-
-I talked much earlier about handles, and how I've had different ones over the years. 
-In games like these I could have the same handle, and be different things. 
-Zach the fighter, Zach the paladin, and Zach the, ahem, treasure hunter, each had different incredible adventures. 
-
-The whole of the digital realm I could be whomever or whatever I wanted.
-Companies could give me structure to fit myself into, or some lack of structure to explore.
-The notion that you had to be yourself was so anathema that you would never even dream of sharing personal information in some random chat room. 
-
-You'd drop into a chat room, get bombarded with "asl," and only fools would actually drop the correct answers to those questions. 
-And in this way the creepy old men would self-select by "being" totally legal teen women who would go off together and have criminally unsatisfying lesbian cybersex. 
-
-And the rest of us who weren't there because nudey pics still downloaded too slowly were the most interesting group of philosophers, scientists, inventors, artists, and writers ever assembled--it didn't matter that in real life we were whatever we were, and we didn't have to share our phone numbers to get there.
-That's what the internet's for goshdarnit!
-
-I want this back.
+## Every party's a just a party until there're nazis--then it's a nazi party
 
 ### The frontlines
 
@@ -53,6 +27,8 @@ I don't know what this number looks like, but in computers we have these things 
 
 And that's what you and I are: C6B20666-6AF4-4DF6-AB57-8F47A429D415, just a hexadecimal number, followed around the internet by the largest corporations the Earth has ever known. 
 
+![An svg of the following privacy-focused apps](./apps.svg)
+
 Against this there are browsers blocking trackers like Firefox and even Safari, browser extensions fighting back like Privacy Badger and ClearURLs, platforms like signal and matrix for messaging, ad blockers like UBlock, DuckDuckGo for search, Protonmail for email, OpenStreetMap for maps, self-hosted cloud apps you can run in your house. 
 
 These are the projects on the frontlines of this battle. 
@@ -63,6 +39,9 @@ Please check them out and give them your support.
 My dad's favorite movie is Patton. 
 The movie begins with the incomporable George C. Scott's rendition of the titular general's speech to the third army in advance of the allied invasion of France. 
 It's a good speech.
+
+[![Youtube video of the movie's speech](https://img.youtube.com/vi/sv9XNFpRdhg/0.jpg)](https://www.youtube.com/watch?v=sv9XNFpRdhg)
+
 
 I remember watching it as a kid, one of those memories that's not really continuous with anything else, just some moment you remember for some reason or another.
 There's a part where Scott's Patton says, "we're going to hold them by the nose, and kick them in the ass!" and my dad turned to me and said, "that's really what he did. His army would hold the front, and then attack the rear."
@@ -75,11 +54,13 @@ So I figured what worked for Patton, might just work for me, and I got to work o
 The specifics of the work are far too much to go into here, but the gist of it is this: build a system that
 
 a) allows for monetization that isn't ad-based
+
 b) allow users to proliferate their digital identities
+
 c) mess with existing notions of identity
 
 For now, I'll just ask that you take my word on a). 
-It's obviously quite important, but again too big for here.
+It's obviously quite important, but again too big for here.[^1]
 
 For b) we already know the model, but we have a lot more computing horsepower to go along with it.
 You just bring back the handle--Ramdatooki, zweibel, and zkpunk can all live again. 
@@ -89,8 +70,8 @@ Of course websites aren't just going to switch to handles overnight, and remembe
 And what if we setup a mail server that gave everyone random site-by-site emails that did nothing other than confirm themselves when users signed up for and in to things?
 And then, what if we just signed up a few extra users every time you went somewhere, and poked around at some things?
 
-And thinking about that, what if we took all the accounts on social media that people are abandoning because of the nazi thing, and start handing them to people who turn them into zombie bots, and all of a sudden uuids like C6B20666-6AF4-4DF6-AB57-8F47A429D415 started being into different things? 
-What happens to the advertising platforms when all of the spying that they rely on suddenly becomes junk, _not_ because we undid 30 years and trillions of dollars worth of spying infrastructure, but because the number that they think we are just aren't us anymore?
+And thinking about that, and c), what if we took all the accounts on social media that people are abandoning because of the nazi thing, and start handing them to people who turn them into zombie bots, and all of a sudden uuids like C6B20666-6AF4-4DF6-AB57-8F47A429D415 started being into different things? 
+What happens to the advertising platforms when all of the spying that they rely on suddenly becomes junk, _not_ because we undid 30 years and trillions of dollars worth of spying infrastructure, but because the numbers that they think we are just aren't us anymore?
 
 
 
@@ -115,3 +96,4 @@ What happens to the advertising platforms when all of the spying that they rely 
 [flatiron]: https://en.wikipedia.org/wiki/Flat_Iron_Building_(Chicago)
 
 
+[^1]: The overarching idea is to make it much easier for people to simply purchase things directly from created content. This actually isn't as technically hard as you might think now in 2025, but it is difficult to explain because it is _very_ different from how the internet works today. Once I write up that blog post, I'll link it here.

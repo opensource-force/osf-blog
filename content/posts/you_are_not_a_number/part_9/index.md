@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 9 - Are you entertained?
-
 ## The boob tube
 
 The television was invented in the 1920s.
@@ -23,6 +21,8 @@ Pretty much any large manufacturer was rationed, or flat out bought up, by the g
 For their troubles, the government set up the War Advertising Council.
 The council's mandate was to provide free or cheap advertising for these harmed businesses while also supporting the war effort. 
 [You can see some of the sweet ads here][oh-the-forties-were-a-looong-time-ago].
+
+![A war advertising council coca-cola ad of a sailor and a woman sharing a coke](./wac.jpg)
 
 The WAC, an auspicious acronym given their mandate, was essentially the propaganda engine for the war effort, but because it was American, it made sure to sell tires alongside white picket fences, and obedient dames for when you got home.
 
@@ -43,6 +43,10 @@ For your troubles, Nielsen would pay you a couple bucks, and sell your demograph
 I was maybe twelve years old when the family was driving home from some dinner at some American suburban culinary stalwart, when we saw the hollywood spotlights scanning the skies near our house. 
 Intrigued, we ventured over to the grand opening of the hottest chain sweeping the nation in the first half of the nineties: Blockbuster Video. 
 We of course had a perfectly fine video rental shop we already frequented, but Blockbuster was new and shiny, and closer to home, so we were hooked.
+
+|![The glorious blastic blockbuster video casette cases](./blockbuster.png)|
+|:--:|
+|*If you don't know the joy of cracking one of these open, and heteronormative act of inserting that casette into the VCR...idk maybe that's why the kids are having less sex these days*|
 
 Blockbuster had a novel instrument for us--the Blockbuster card. 
 At our local rental shop, you'd just leave your name, and they'd put you into their ancient phosphorescent green machine, and you'd be on your way.

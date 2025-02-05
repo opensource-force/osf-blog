@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 7 - Just put a coin after it
-
 ## What if we just got rid of money?
 
 Little more than a month after Lehman Brothers broke the buck, Satoshi Nakamoto, who may or may not exist, published a whitepaper entitled ["Bitcoin: A Peer-to-Peer Electronic Cash System."][bitcoin]
@@ -25,7 +23,11 @@ Well, it turns out there was a crucial asset class that had long gone ignored in
 In 2010, the US Supreme Court passed the Citizens United decision, which decided that the first amendment considered money to be speech, and that there could be no limit on political contributions from institutions.
 And you know... politics have been totally cool in the US ever since.
 
+![A huge pile of cash announces its 2016, so as to rule over its fellow citizens](./money.jpg)
+
 Wherever you stand politically, I hope you can at least recognize the disparity between the US, and other countries' approaches to online protections. 
+A reality that certainly isn't helped by US companies being able to pour unlimited cash into political campaigns. 
+
 The EU's General Data Protection Regulation (GDPR) is the most notable. 
 It's what's responsible for those giant cookie banners that show up everywhere on the web.
 

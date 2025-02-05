@@ -9,17 +9,31 @@ Join planetnineisaspaceship as he takes you on a ride back through time on how w
 And what we can do about it.
 
 [part 1](http://127.0.0.1:1111/posts/you_are_not_a_number/part-1)
+
 [part 2](http://127.0.0.1:1111/posts/you_are_not_a_number/part-2)
+
 [part 3](http://127.0.0.1:1111/posts/you_are_not_a_number/part-3)
+
 [part 4](http://127.0.0.1:1111/posts/you_are_not_a_number/part-4)
+
 [part 5](http://127.0.0.1:1111/posts/you_are_not_a_number/part-5)
+
 [part 6](http://127.0.0.1:1111/posts/you_are_not_a_number/part-6)
+
 [part 7](http://127.0.0.1:1111/posts/you_are_not_a_number/part-7)
+
 [part 8](http://127.0.0.1:1111/posts/you_are_not_a_number/part-8)
+
 [part 9](http://127.0.0.1:1111/posts/you_are_not_a_number/part-9)
+
 [part 10](http://127.0.0.1:1111/posts/you_are_not_a_number/part-10)
+
 [part 11](http://127.0.0.1:1111/posts/you_are_not_a_number/part-11)
+
 [part 12](http://127.0.0.1:1111/posts/you_are_not_a_number/part-12)
+
 [part 13](http://127.0.0.1:1111/posts/you_are_not_a_number/part-13)
+
 [part 14](http://127.0.0.1:1111/posts/you_are_not_a_number/part-14)
+
 [part 15](http://127.0.0.1:1111/posts/you_are_not_a_number/part-15)

@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 6 - It sure does rhyme
-
 ## Hey where'd my money go?
 
 In 2008, no...let's go back a bit.
@@ -30,7 +28,13 @@ If they rise fast enough, this is called a bubble.
 
 Like the dotcom bubble that happened in, _checks notes_, 2001.
 
-Luckily everyone learned their lesson from that bubble burst, and decided to invest in the much safer realm of real estate mortgages. 
+|![A timeline of market crashes with the timeline of Glass-Steagall super imposed showing correlation between its repeal and the constant financial crashes of the 2000s](./gs.jpg)|
+|:--:|
+|*Well correlation may not equal causation, but like maybe that shouldn't matter when we're dealing with banks playing with our money*|
+
+
+Luckily everyone learned their lesson from that bubble burst, and decided to invest in the much safer realm of real estate mortgages.
+
 The same increased demand that caused the dotcom bubble, had a different effect in real estate where the price of the investment vehicles was much less volatile.
 In order to meet the increased demand, lenders had to create more investment vehicles.
 Part of this was done by creating convoluted derivatives of derivatives of investments, and part of this was done just by giving people more mortgages.

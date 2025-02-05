@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800">
+  <defs>
+    <pattern id="firefox-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://www.mozilla.org/media/protocol/img/logos/firefox/browser/og.4ad05d4125a5.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="privacybadger-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://privacybadger.org/images/banner.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="clearurls-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://opengraph.githubassets.com/d387d580ed92f56af55a4b820b45bf0b26b004147ea842c77a31b7743027db69/ClearURLs/Addon" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="signal-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://signal.org/assets/images/og/og-image.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="matrix-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://matrix.org/blog/img/matrix-logo.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="ublock-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://opengraph.githubassets.com/e57e757b8e35642c1bd4e54bf5fc82557c0c577bfdfacbf08c14c6b3fd644ba7/gorhill/uBlock" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="duckduckgo-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://duckduckgo.com/assets/logo_social-media.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="protonmail-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://pmecdn.protonweb.com/image-transformation/?s=s&amp;image=Zx_If_Xo_F3_Nbk_B_Xs_x_Proton_Mail_781fc7627e.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+    <pattern id="openstreetmap-pattern" width="100%" height="100%" patternUnits="objectBoundingBox">
+      <image xlink:href="https://www.openstreetmap.org/assets/osm_logo_256-ed028f90468224a272961c380ecee0cfb73b8048b34f4b4b204b7f0d1097875d.png" width="120" height="120" x="-30" y="-30" preserveAspectRatio="xMidYMid slice"/>
+    </pattern>
+  </defs>
+
+  <a xlink:href="https://www.mozilla.org/firefox">
+    <circle cx="400" cy="100" r="60" fill="url(#firefox-pattern)"/>
+    <text x="400" y="105" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">Firefox</text>
+  </a>
+  <a xlink:href="https://privacybadger.org">
+    <circle cx="642" cy="230" r="60" fill="url(#privacybadger-pattern)"/>
+    <text x="642" y="235" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">Privacy Badger</text>
+  </a>
+  <a xlink:href="https://github.com/ClearURLs/Addon">
+    <circle cx="700" cy="400" r="60" fill="url(#clearurls-pattern)"/>
+    <text x="700" y="405" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">ClearURLs</text>
+  </a>
+  <a xlink:href="https://signal.org">
+    <circle cx="642" cy="570" r="60" fill="url(#signal-pattern)"/>
+    <text x="642" y="575" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">Signal</text>
+  </a>
+  <a xlink:href="https://matrix.org">
+    <circle cx="400" cy="700" r="60" fill="url(#matrix-pattern)"/>
+    <text x="400" y="705" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">Matrix</text>
+  </a>
+  <a xlink:href="https://github.com/gorhill/uBlock">
+    <circle cx="158" cy="570" r="60" fill="url(#ublock-pattern)"/>
+    <text x="158" y="575" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">uBlock</text>
+  </a>
+  <a xlink:href="https://duckduckgo.com">
+    <circle cx="100" cy="400" r="60" fill="url(#duckduckgo-pattern)"/>
+    <text x="100" y="405" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">DuckDuckGo</text>
+  </a>
+  <a xlink:href="https://proton.me/mail">
+    <circle cx="158" cy="230" r="60" fill="url(#protonmail-pattern)"/>
+    <text x="158" y="235" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">ProtonMail</text>
+  </a>
+  <a xlink:href="https://www.openstreetmap.org">
+    <circle cx="400" cy="400" r="60" fill="url(#openstreetmap-pattern)"/>
+    <text x="400" y="405" text-anchor="middle" fill="white" font-family="Arial" font-size="14" 
+      style="text-shadow: 2px 2px 2px rgba(0,0,0,0.5);">OpenStreetMap</text>
+  </a>
+
+  <!-- Connection lines -->
+  <g fill="none" stroke="#ccc" stroke-width="2">
+    <path d="M400 160 L400 340"/>
+    <path d="M400 460 L400 640"/>
+    <path d="M460 400 L640 400"/>
+    <path d="M160 400 L340 400"/>
+    <path d="M214 286 L586 514"/>
+    <path d="M214 514 L586 286"/>
+  </g>
+</svg>

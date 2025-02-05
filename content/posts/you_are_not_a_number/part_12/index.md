@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 12 - The Advancement
-
 ## You are not a number
 
 In the sixties Patrick McGoohan wrote, directed, and starred in an incredible 17 episode show called The Prisoner.
@@ -14,6 +12,8 @@ The opening of the show always features a shadowy character named Number 2 who t
 To this, McGoohan responds:
 
 "I am not a number, I am a free man!"
+
+[![Youtube video of the opening of The Prisoner](https://img.youtube.com/vi/0a1_v-BJ-Wc/0.jpg)](https://www.youtube.com/watch?v=0a1_v-BJ-Wc&t=118)
 
 Turning human beings into numbers is a dehumanizing act akin to calling them animals or statistics. 
 It makes it easier to convince yourself that you're doing the right thing, because there's no way all those poeple are going to figure it out. 
@@ -119,7 +119,35 @@ At least that's the short-term solution.
 Long-term, we become our own carrier with some kind of rotating number system that follows the law, and doesn't get shared with gigantocorps.
 But Rome wasn't built in a day.
 
+## Getting creative
 
+A surprising amount of the way I interpret the world comes from playing the original Final Fantasy when I was like six or seven lol.
+When you start that game, you select four characters, and you give them a name. 
+Your entry point into this world is this ontological decision about who you are, and who is coming along with you. 
+
+|![The first final fantasy's character generation screen](./ff1.png)|
+|:--:|
+|*Final Fantasy fans will recognize the names here as four character representations of the series' final bosses. I'll leave it to the fans to guess how to do the next one in four characters*|
+
+Voice acting ruined this subtle yet powerful notion. 
+_I_ was no longer the protagonist in my game, and my party was no longer my friends. 
+I was just a passenger on a ride packaged up for me in design studios around the world--still fun to be sure, but missing just that little something.
+
+I talked much earlier about handles, and how I've had different ones over the years. 
+In games like these I could have the same handle, and be different things. 
+Zach the fighter, Zach the paladin, and Zach the, ahem, treasure hunter, each had different incredible adventures. 
+
+The whole of the digital realm I could be whomever or whatever I wanted.
+Companies could give me structure to fit myself into, or some lack of structure to explore.
+The notion that you had to be yourself was so anathema that you would never even dream of sharing personal information in some random chat room. 
+
+You'd drop into a chat room, get bombarded with "asl," and only fools would actually drop the correct answers to those questions. 
+And in this way the creepy old men would self-select by "being" totally legal teen women who would go off together and have criminally unsatisfying lesbian cybersex. 
+
+And the rest of us who weren't there because nudey pics still downloaded too slowly were the most interesting group of philosophers, scientists, inventors, artists, and writers ever assembled--it didn't matter that in real life we were whatever we were, and we didn't have to share our phone numbers to get there.
+That's what the internet's for goshdarnit!
+
+I want this back.
 
 
 ---------------------

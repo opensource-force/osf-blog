@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 10 - Data dreams by algorhythmics sounds pretty boring
-
 ## 1984 was a typo
 
 By 2014, the tech giant advertisers had the apparatus in place to effectively spy on everyone everywhere that a machine connected to other machines. Anything done digitally more or less anywhere on Earth was collected, processed, and sold.
@@ -148,6 +146,8 @@ How about a few months later when that intern goes ahead and sprinkles their fla
 * Everyone's just hanging with their friends having a good time
 
 * Keep people watching political AAAADDDDDSSSSS!!!!
+
+![A screen grab from the Simpsons when one festival goer asks, "are you being sarcastic dude?" and the other goes, "I don't even know anymore," but instead of "sarcastic" it says "political"](./simpsons.png)
 
 Now the problem with this algorithm is that it comes down to whether you agree with the intern or not. 
 And that's what makes undoing this shit so hard, because the whole algorithm is designed to make you feel good when you are aligned with it. 
