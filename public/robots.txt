@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://opensource-force.github.io/osf-blog/sitemap.xml
