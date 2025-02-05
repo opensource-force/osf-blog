@@ -10,7 +10,11 @@ And what we can do about it.
 
 _leave it to planet to write a **15 part** screed on digital identity--ain't nobody got time for that_
 
-I gaurantee you the parts are short and fun, but if you are indeed pressed for time, just read [part 12 - The First Charge](/posts/you_are_not_a_number/part-12), and [part 15 - You're invited](/posts/you_are_not_a_number/part-15)
+I gaurantee you the parts are short and fun, but if you are indeed pressed for time, just read 
+
+[part 12 - The First Charge](/posts/you_are_not_a_number/part-12), 
+
+and [part 15 - You're invited](/posts/you_are_not_a_number/part-15)
 
 <br>
 
