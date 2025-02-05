@@ -1,5 +1,5 @@
 +++
-title = "Part 7 - Just put a coin after it"
+title = "Part 7 - At least you have the same rights as money"
 date = "2025-02-02"
 updated = "2025-02-02"
 +++
@@ -12,8 +12,8 @@ In the system, transaction values would be represented by a fungible token calle
 
 Chances are you've heard of this system.
 
-Bitcoin, and the crypto category it spawned will weave in and out of this story, but this isn't a blog about crypto. 
-I introduce it here because Satoshi introduced a third identifier for people: the public key. 
+Bitcoin, and the crypto category isn't really a part of this story. 
+I introduce it here because Satoshi introduced a third identifier for people: the public key, and also because it's the asset class that joins what's in the next few paragraphs in being the money sink that the banks need to not crash everything again.
 
 ## More bubble?
 

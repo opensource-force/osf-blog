@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 14 - This part deals with internet denizens proclivity for posting nudity online. If that makes you uncomfortable, feel free to skip it.
-
 ## I know it when I see it
 
 In 1964, supreme court justice Potter Stewart wrote,

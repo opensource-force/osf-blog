@@ -19,13 +19,16 @@ Turning human beings into numbers is a dehumanizing act akin to calling them ani
 It makes it easier to convince yourself that you're doing the right thing, because there's no way all those poeple are going to figure it out. 
 After all, they were dumb enough to become numbers.
 
-But I'd imagine that faced by some similarly nefarious captor dictating to us just what number we had to be our reactions might be similar to the prisoner's... unless we were actual prisoners where this is exactly what happens.
+But I'd imagine that faced by some similarly nefarious captor dictating to us just what number we had to be, our reactions might be similar to McGoohan's... unless we were actual prisoners where this is exactly what happens.
 And at the risk of a reductio ad Hitler, let's also remember how the nazis assigned numbers to Jewish people and members of other groups they wanted to extinguish. 
 
 #### A brief aside on how computers work, and how we can't get rid of numbers all together
 
 Ok, so letters in computers are called chars, and an ordered group of chars is called a string.
 These are represented inside of the computer as zeros and ones in a system called binary.
+
+![An image showing "hello world" in binary](./binary.png)
+
 But even that is an abstraction over high and low voltages within the actual circuitry of the chips in the computer.
 
 And so we could say that some computer representation of you was high-high-low-high, and try to convince people that that wasn't a number, but then smart alecs would be like, "oh yeah, but high and low are like five volts and zero volts so it's still really a number." 
@@ -41,7 +44,7 @@ But.
 
 My first job out of high school was as a barista at Starbucks. 
 Being 19 years old, and having to work at five in the morning, wasn't my favorite, but the coffee helped.
-To maximize my ability to intake the coffee, because Howard Schultz forbid you take a second to drink some once the customers start coming in, I would mix hot coffee and iced coffee together.
+To maximize my ability to intake the coffee, because Howard Schultz forbade you take a second to drink some once the customers start coming in, I would mix hot coffee and iced coffee together.
 To this day, I prefer my coffee luke warm, much to the horror of my wife, and probably you the reader.
 
 For lack of other prospects I stuck around with the company and worked my way up to manager.

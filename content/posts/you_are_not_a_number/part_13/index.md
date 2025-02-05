@@ -4,8 +4,6 @@ date = "2025-02-02"
 updated = "2025-02-02"
 +++
 
-# Part 13 - The third place
-
 ## But what about all those places that already have my number?
 
 In 2008, I was working at the Apple Store on Michigan Avenue in Chicago when the iPhone 3G, and the App Store launched.
@@ -25,9 +23,14 @@ At least with the iron maiden you died fairly quickly, and didn't have to deal w
 
 Online though you don't have to leave, and go to a new place. 
 I lived through all my friends ditching Friendster for MySpace, and then MySpace for Facebook. 
-It's like that sad reminder that each one of us leaves the playground with our friends one last time, we just don't know it then.
+It was like that sad reminder that each one of us leaves the playground with our friends one last time, we just don't know it then.
 
-But of course you need somewhere to go. 
+But it didn't have to be that way. 
+We don't have to choose one or another. 
+That division is an _artificial separation created by companies looking to monetize your activity_.
+What if the next time we all decide to move the next best thing, we require that thing to play nicely with others.
+
+But of course we can't just ditch the interwebs to go out into the world where things already play nicely with others.
 Gore forbid we just ditch the internet and go touch grass or something. 
 
 ### DID you, or DID you not?
@@ -48,6 +51,8 @@ The thing is, so long as distributed systems are trying to give you a single can
 
 The Fediverse[^11] works in a similar way, but instead of giving you a canonical id for all of the Fediverse, your ids are stored in a server that is federated with the system. 
 That server is typically only linked to one of the Fediverse's implementations, and so if you really really want to you can proliferate your identities across the Fediverse, but to do so you need different emails, and you need to connect to a bunch of different servers, and since this isn't a common use case, none of the existing apps are built to do this. 
+
+![A diagram of the different implementations of the ActivityPub protocol, which is called The Fediverse](./fediverse.png)
 
 I want to be clear that I really like the Fediverse, and AT-protocol endeavors like Bluesky. 
 They are absolutely a step in the right direction, and if they were built now, I think they would have been more careful with how identity was handled. 
@@ -129,7 +134,9 @@ If you wanted to see what shows were playing that weekend, you'd hop into some c
 People would just like tell you.
 
 Then maybe you'd hang around for a while, chat about tunes, learn some new bands, and then log off. 
-Maybe you come back, maybe you don't it doesn't matter. 
+Maybe you come back, maybe you don't.
+It doesn't matter. 
+
 The chatroom lives on, just sitting there to help the next audiophile find their next show. 
 
 
