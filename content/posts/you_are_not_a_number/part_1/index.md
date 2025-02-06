@@ -70,7 +70,7 @@ Who are you?
 
 <br>
 
-[Continue on to part 2](/posts/you_are_not_a_number/part-2)
+[Continue on to part 2](/osf-blog/posts/you_are_not_a_number/part-2)
 
 
 

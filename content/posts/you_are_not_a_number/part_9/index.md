@@ -66,7 +66,7 @@ And there you go, your tv too, just spying on you for advertisers to sell you mo
 
 <br>
 
-[Continue to part 10](/posts/you_are_not_a_number/part-10)
+[Continue to part 10](/osf-blog/posts/you_are_not_a_number/part-10)
 
 
 

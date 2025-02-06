@@ -73,7 +73,7 @@ Tom, I wish you the best, but I wish you'd never left.
 
 <br>
 
-[Continue to part 5](/posts/you_are_not_a_number/part-5)
+[Continue to part 5](/osf-blog/posts/you_are_not_a_number/part-5)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

@@ -79,7 +79,7 @@ What happens to the advertising platforms when all of the spying that they rely 
 
 <br>
 
-[Continue to part 12](/posts/you_are_not_a_number/part-12)
+[Continue to part 12](/osf-blog/posts/you_are_not_a_number/part-12)
 
 
 

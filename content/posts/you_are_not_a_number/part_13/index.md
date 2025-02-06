@@ -145,7 +145,7 @@ The chatroom lives on, just sitting there to help the next audiophile find their
 
 <br>
 
-[Continue to part 14](/posts/you_are_not_a_number/part-14)
+[Continue to part 14](/osf-blog/posts/you_are_not_a_number/part-14)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
