@@ -68,7 +68,7 @@ Do you feel like things in the cloud are 90% cheaper?
 
 <br>
 
-[Continue to part 6](/posts/you_are_not_a_number/part-6)
+[Continue to part 6](/osf-blog/posts/you_are_not_a_number/part-6)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

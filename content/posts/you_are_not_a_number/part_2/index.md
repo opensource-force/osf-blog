@@ -133,7 +133,7 @@ And as so doubly often happens, that phoenix would exploit the masses for profit
 
 <br>
 
-[Continue on to part 3](/posts/you_are_not_a_number/part-3)
+[Continue on to part 3](/osf-blog/posts/you_are_not_a_number/part-3)
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives

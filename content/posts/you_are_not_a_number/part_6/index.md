@@ -72,7 +72,7 @@ All the doom scrollers needed to scale was piles of money, and since nothing els
 
 <br>
 
-[Continue to part 7](/posts/you_are_not_a_number/part-7)
+[Continue to part 7](/osf-blog/posts/you_are_not_a_number/part-7)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

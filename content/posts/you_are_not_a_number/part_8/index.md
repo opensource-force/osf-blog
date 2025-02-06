@@ -65,7 +65,7 @@ Well I have no doubt that sometimes you're being listened to, but most of the ti
 
 <br>
 
-[Continue to part 9](/posts/you_are_not_a_number/part-9)
+[Continue to part 9](/osf-blog/posts/you_are_not_a_number/part-9)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

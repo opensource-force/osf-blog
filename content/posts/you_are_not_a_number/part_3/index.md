@@ -67,7 +67,7 @@ In 2005 Google acquired Android to do just that.
 
 <br>
 
-[Continue to part 4](/posts/you_are_not_a_number/part-4)
+[Continue to part 4](/osf-blog/posts/you_are_not_a_number/part-4)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

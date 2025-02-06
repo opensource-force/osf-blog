@@ -164,7 +164,7 @@ Opting out's just such a gnarly mess, that we have to get creative.
 
 <br>
 
-[Continue to part 11](/posts/you_are_not_a_number/part-11)
+[Continue to part 11](/osf-blog/posts/you_are_not_a_number/part-11)
 
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid

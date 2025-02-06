@@ -41,7 +41,7 @@ We'll have to wait about a decade for where this really reers its head, but if y
 
 <br>
 
-[Continue to part 8](/posts/you_are_not_a_number/part-8)
+[Continue to part 8](/osf-blog/posts/you_are_not_a_number/part-8)
 
 
 

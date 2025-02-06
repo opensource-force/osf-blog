@@ -164,7 +164,7 @@ I want this back.
 
 <br>
 
-[Continue to part 13](/posts/you_are_not_a_number/part-13)
+[Continue to part 13](/osf-blog/posts/you_are_not_a_number/part-13)
 
 [fbvduguid]: https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid
 [linktree]: https://www.adamenfroy.com/linktree-alternatives

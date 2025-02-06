@@ -79,7 +79,7 @@ But one problem at a time.
 
 <br>
 
-[Continue to part 15](/posts/you_are_not_a_number/part-15)
+[Continue to part 15](/osf-blog/posts/you_are_not_a_number/part-15)
 
 
 
