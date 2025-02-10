@@ -7,6 +7,10 @@ base_url = "https://opensource-force.github.io/osf-blog/"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
+# Whether to generate RSS or Atom feeds
+generate_feeds = true
+feed_filenames = ["atom.xml", "rss.xml"]
+
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
