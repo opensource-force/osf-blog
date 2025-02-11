@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="width: 60%; height: auto;" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#116B11"/>
+  
+  <text x="200" y="100" font-family="Arial" font-size="24" fill="#FFD700" text-anchor="middle" transform="rotate(-15, 300, 100)">
+    (312) 555-0123
+  </text>
+  
+  <text x="400" y="160" font-family="Arial" font-size="24" fill="#FF69B4" text-anchor="middle" transform="rotate(10, 300, 160)">
+    123-45-6789
+  </text>
+  
+  <text x="300" y="220" font-family="Arial" font-size="20" fill="#00FFFF" text-anchor="middle" transform="rotate(-5, 300, 220)">
+    550e8400-e29b-41d4-a716-446655440000
+  </text>
+  
+  <text x="350" y="280" font-family="Arial" font-size="24" fill="#FF4500" text-anchor="middle" transform="rotate(15, 300, 280)">
+    user123@example.com
+  </text>
+  
+  <text x="150" y="340" font-family="Arial" font-size="22" fill="#9370DB" text-anchor="middle" transform="rotate(-8, 300, 340)">
+    123 Main St, Anytown, ST 12345
+  </text>
+</svg>
