@@ -162,6 +162,8 @@ So why not incentivize that?
 Why not let people add themselves to a transaction pipeline where they get a little piece of recommending things to their family and friends?
 Because then if they get too noisy with their recommendations, you can tell them to shut up lol...unlike ads on the internet.
 
+And if they have the temerity of forming an opinion on something they don't have the credentials to warrant, you can ask them, "where's your band?"
+
 
 
 [planetnine]: https://wiki.planetnineisaspaceship.com
