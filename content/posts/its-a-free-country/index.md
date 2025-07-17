@@ -97,3 +97,99 @@ You do not need to hold on to your equity like Smaug buried deep in the Lonely M
 
 What would happen if someone made Amazon, but gave that near 50% out to the employees and then users of Amazon?
 I don't really know, but it kind of feels like it's worth finding out. 
+
+Considering this model of capital investiture is so ubiquitous, you might be wondering if there's some sort of legal requirement for things to be done this way. 
+Like is there some analog to the fiduciary requirement for corporate directors that makes it so founding executives have to be greedy dickheads.
+To be honest, that does sound like something the US might do.
+
+It turns out that there is no law saying you need to be a greedy dickhead. 
+People just do it because they can.
+
+## Do we need them, or do they need us?
+
+I had the wonderful good fortune of getting into punk rock as a teenager in the Chicagoland area in the late 90s. 
+Thus my class consciousness was awakened through reading the liner notes of bands like Dillinger Four, and The Broadways. 
+
+Amongst all of the veritable jams from that time, [We'll Have a Party][party] by The Broadways (Brendan Kelly and Chris McCaughan of The Lawrence Arms' Yardbirds) became my life's ballad over time. 
+A love story put on hold as the system is torn down. 
+Every line is gold, provoking thought and consideration of just how ludicrous and desperate the system can be. 
+Go listen. 
+I'll wait.
+
+Here's the stanza for this post:
+
+> The bosses learned to fool the slaves into 8 hour days
+But do we need them or do they need us?
+Seems like we dwell on these useless things, lifestyles of wealth, pursuit of money
+Competition says to beat each other down for personal gain
+
+Does the fruit stand sell iPods if we all quit? 
+Of course.
+Does my first startup sell transit tickets without even one member of the people who took a pay cut to keep the company going? 
+Maybe...
+
+Is the equity payout for the founders justified at 10 times that of early employees?
+What about 100 times that?
+
+Keynes in the riveting (/s) General Theory of Employment, Interest and Money, points out that the Classical Economic notion that Labor negotiates for real wages based on its productivity is undermined by the fact that Labor has to negotiate for actual real world wages that, you know, let you buy food and stuff.
+
+The more well-known Marx had already pointed out that Labor was getting stiffed out of the fruits of its labor since profit was going to the bosses instead of to themselves. 
+
+So in a capitalist society, the pressure from the bosses is to get you coming and going.
+Labor is underpaid, and then the profit garnered from that injustice is spread amongst the already wealthy. 
+And for a few centuries now, the goal we've been sold on is joining their club, and not marching them to the guillotines.
+
+Back to my first startup, and someone leaving. 
+Does Bezos' life change all that much if his 50% becomes 48% because he had to spend a bit more to retain someone, or replace someone?
+How much does your life change if tomorrow you stopped getting paid?
+
+That's the inequality in entrepreneurialship.
+Bezos has to roll the dice on have a few less billion than all his billions.
+You have to roll the dice on whether you get to afford food next week.
+
+Seems like we need them more than they need us.
+
+## Robin Hood is an app for Wall Street Bros
+
+The whole lose your job, and immediately become destitute is the reason why some countries have strong social safety nets.
+We here in the US do not.
+Whether we should or not is certainly something people will debate, but I won't debate it here.
+Instead I'll just say, whereever you stand on the issue, we're unlikely to all be able to quit our jobs with government help in the next few years.
+
+So, in order to combat the gap between Bezos' 50%, and you not being able to buy groceries if he fires you, it's worth trying to figure something else out.
+For pretty much anyone whose ever had to supplement their income, we already know what that something is: you get a second job. 
+You know what sucks?
+Getting a second job.
+Let's see if we can make it a little better. 
+
+I think [this article from 80k hours][80000] gives a nice overview of what to look for in a job.
+
+* Work that's engaging
+* Work that helps others
+* Work you're good at
+* Work with supportive colleagues
+* Work that doesn't have major negatives
+* Work that fits with the rest of your life
+
+Well I don't know about you, but that sounds like doing whatever it is you do with your friends to me. 
+I wonder if there's something we could be doing to get paid there.
+
+Every summer Games Done Quick puts on a week long marathon of video game speed runs. 
+There is a t-shirt company specializing in video game and fantasy-themed apparel.
+Throughout the marathon they make sizable donations to support the runners, and the group they're raising money for which is typically Doctors Without Borders.
+
+Those donations are marketing of course, but I'd rather $10k go to Doctors Without Borders than Zuckerberg's island ruination fund.
+Now we have a nice little loop: The Yetee donates to market -> speed runners volunteer their time to give this platform -> people buy from The Yetee -> repeat.
+The platform is what makes the big donation worthwhile at a marketing tool.
+But what if we didn't need the platform?
+
+The whole ecosystem of this speed running marathon is repeated all over the Earth in the hobbies and passions that we share with our friends. 
+They are what's engaging, and what we're good at, and by golly when you tell someone to purchase some super esoteric piece of essential paraphenelia, you should get a buck or two if they buy it.
+
+## 
+
+
+
+
+
+[80000]: https://80000hours.org/career-guide/job-satisfaction/ 
