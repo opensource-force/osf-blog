@@ -272,8 +272,24 @@ A binaridome if you will.
 
 All of this stuff is doable, it just takes one thing: people not being greedy dickheads.
 
+I'd like to invite y'all to not be greedy dickheads with me.
+It'd be your second job (or third or fourth, I don't know your story), you can even put it on your LinkedIn/resume--influencer, content marketer, philosophizer--doesn't matter to me, I'll vouch for you.
+And all the money I make on this stuff, minus what I need to put my kid through college and retire at some point, I'll turn around and pay out to you as royalties for being yourself.
 
+Because at the end of the day, the notion that someone should own 50% of a company that many people have worked hard to build only makes sense to entitled psychopaths.
+And now those dickheads want to be kings.
+So we're gonna have to get a little state motto of Virginia, or be ready for prima nocta shenanigans. 
 
+## LFG
+
+I'm going to outline how this works in the next post. 
+But I want to introduce the new Planet Nine logo here.
+When you see this guy on something around cyberspace it means that someone is trying to be cool.
+
+And remember, all of this nonsense wasn't built in a day.
+It's not going to be undone in a day either. 
+
+But trust me when I say, I'm going to do my damnedest to make it fun to try.
 
 
 [80000]: https://80000hours.org/career-guide/job-satisfaction/ 
