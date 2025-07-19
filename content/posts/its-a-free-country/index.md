@@ -186,10 +186,95 @@ But what if we didn't need the platform?
 The whole ecosystem of this speed running marathon is repeated all over the Earth in the hobbies and passions that we share with our friends. 
 They are what's engaging, and what we're good at, and by golly when you tell someone to purchase some super esoteric piece of essential paraphenelia, you should get a buck or two if they buy it.
 
-## 
+## Mr. Wonderful
+
+If you've never seen Shark Tank, it's a show where entrepreneurs get to go in front of a panel of five investors, and pitch them their idea.
+For someone who loves watching ideas get pitched, it's great even if the egregious percentages requested by the investors earns the show its name. 
+
+The central investor of the show is Kevin O'Leary, aka Mr. Wonderful, who is well known for pitching fledgling entrepreneurs on royalty deals. 
+In the early seasons these deals were pretty rightly mocked by the other sharks, but as they, and the entrepreneurs, realized what Shark Tank really is (a giant marketing vehicle), and thus who they are as the "sharks" (influencers), the deals made more sense. 
+What's the difference between paying Mr. Wonderful and Google a quarter for every sale?
+
+A [2023 report from Morning Consult][report] found that 57% of gen Z wants to be influencers. 
+We have all sorts of words for the artifacts of this stuff, short-form content, reels, tiktoks, blah blah blah.
+It's all media.
+When I was gen Z's age, everyone wanted to be in a band, and it wasn't just for the love of song.
+
+Look back at that list of what people want to do for a job:
+
+* Work that's engaging
+* Work that helps others
+* Work you're good at
+* Work with supportive colleagues
+* Work that doesn't have major negatives
+* Work that fits with the rest of your life
+
+One of the best things we did when I was in my band (we were not serious. We _were_ drunk.) was make shower curtains for merch.
+They were hysterical, and we sold out of them in minutes. 
+And we donated all the proceeds to a worthy cause: buying beer at our next practice. 
+
+This wasn't before the internet, but it was before the SoMa apps ruined it. 
+Could we have sold more shower curtains than we did? 
+Maybe, but that would've required paying for advertising because how else would anyone find out about them?
+
+So the band and I hop online and drop a grand an ad spend, and that gets spread amongst content creators.
+We find that our shower curtains make more money than the mediocre slop rock we play, and pivot to grow our fledgling shower curtain empire. 
+Next thing you know, we're on Shark Tank talking about how our Customer Acquisition Cost is $3.37 and Mr. Wonderful's trying to sell us on a royalty so he can bestow upon us his brand.
+
+It's sold as a win/win.
+He makes money when we make money.
+You watch the ep, and tell a friend about it, and that person goes off and buys one of our shower curtains why don't you make money?
+
+We all do that all the time with our friends and families. 
+Recommendations, opinions, enthusiastic suggestions, this isn't an anti-capitalist screed, we all buy stuff all the time, and we rely on these things from others to point us in the right direction. 
+So why do none of us get paid for that?
+
+## "1984 man, you were right, that's a typo"
+
+Well, the dastardly answer to that question is that you have been.
+The advertising aparatuses that generate this buzz, and associates your legwork with their products is giving you free software ~to steal your personal information~ for your enjoyment. 
+Google gives you free email, Meta free anxiety, Amazon close to free shipping, and all you have to give them is all of your browsing habits.
+
+The thing is, what you do with your time, online or otherwise, is your "brand," and just like Mr. Wonderful, you should be compensated for it.
+Just because your 32 followers are composed primarily of the birdwatching group you joined briefly five summers ago to have an excuse to get out of the house, doesn't mean you shouldn't get a dollar if someone buys the bird shirt you just saw somewhere. 
+
+When you start putting this all together, you might ask, might it be possible to create a company that did tech-like things, and paid people royalties with every purchase?
+You might then call up your lawyer, and layout this grand plan.
+And then you get to watch him spread his arms once again, and remind you, "Of course! It's a free country."
+
+Cool.
+Now what's interesting about paying people when they help sell something is you no longer have to spy on them to try to figure out what they want.
+So we get to kill two gigantocorp bedrocks with one stone.
+
+But what about the free software and stuff?
+Well, us programmers are weird.
+Our field is very highly paid, but quite a few of us are quite happy programming things we like for free.
+
+The thing I like is ripping the system.
+
+## "So simple it just might work. Then we'll quit our jobs."
+
+So here's the whole idea in a nutshell. 
+People who sell things on the internet allow their things to be sold on this platform, which is non-exclusive, and requires minimal effort.
+You all become independent contractors who get paid whenever a sale is made that you had a hand in.
+Me, and a group of open source developers, provide the software that makes all this work for free. 
+
+I learned a new word the other day: reciprocity.
+Well to be fair I knew the word, but I learned it in a new context where it refers to a kind of sustainable economic loop where the outputs of one transaction are used as the inputs for a second, which then outputs back to the first. 
+I'm relatively certain that the coiners of the term would bristle at its usage with tech platforms, but the class war necessitates some linguistic casualties. 
+
+Currently, the value you bring to these transactions is extracted from you and monetized by the gigantocorps. 
+I want to pay you for that value.
+We didn't really get into it, but these transactions run through infrastructure housed in cool spaces that you can help monetize too. 
+
+It's like a big biodome, but instead of a biome, its binary.
+A binaridome if you will. 
+
+All of this stuff is doable, it just takes one thing: people not being greedy dickheads.
 
 
 
 
 
 [80000]: https://80000hours.org/career-guide/job-satisfaction/ 
+[report]: https://www.cnbc.com/2023/09/20/more-than-half-of-gen-zers-think-they-can-easily-make-a-career-in-influencing.html
