@@ -8,13 +8,13 @@ updated = "2025-07-12"
 
 # "It's a free country"
 
-Back in 2015 I bought a house in southeast Portland with my friend Luc. 
+Back in 2015 I bought a house in southeast Portland with a friend. 
 
 We had the benefit of both having gone to a small college in town called Reed.
 Reed is well known for its academics, and somewhat lax approach to substance use (at least it was back in our day).
 Those of us who went there are governed by the Honor Principle, an ill-defined set of rules that mostly amount to "don't be an asshole."
 
-True to our youthful indoctrination, we drew up an agreement with provisions on what should happen if either of us got a real girlfriend, but was a bit light on what will happen financially upon sale of our joint asset. 
+True to our youthful indoctrination, we drew up an agreement with provisions on what should happen if either of us got a real girlfriend, but which was a bit light on what will happen financially upon sale of our joint asset. 
 So when it came time to sell The Dojo, an affectionate nickname earned by the Asian decor that pre-dated our purchase, I consulted my lawyer, another Reedie, on what the legal and financial ramifications of the sale would be.
 Our conversation went something like this.
 
@@ -30,7 +30,9 @@ My lawyer smiled that smile that only lawyers smile when they've just lawyered t
 Lawyer: Of course! 
 It's a free country.
 
-Luc and I still cheers to the day I wrote him a six figure check, and then we went across the street to The Lutz, our alma mater's goto watering hole to celebrate.
+That friend and I still cheers to the day I wrote him a six figure check, deposited it, and then went across the street to The Lutz, our alma mater's goto watering hole to celebrate.
+
+![The exterior of one of the finest establishments in Portland](lutz.jpg)
 
 ## "Can't you just like, not do that?"
 
@@ -49,7 +51,7 @@ Fiduciary means acting in the financial best interest of the company.
 
 Any fledgling day trader will tell you that making moves that are in the financial best interest of anything is more art (luck) than skill, but there is something pretty universally understood as bad for a company's bottom line: paying its workers more.
 This means that by law, Directors and above at publicly traded companies must be anti-union.
-Of course union busting is illegal too so the real advantage lies with the group that can employee the most lawyers to figure out what can and cannot be done.
+Of course union busting is illegal too so the real advantage lies with the group that can employ the most lawyers to figure out what can and cannot be done.
 And if you're wondering if it would just be cheaper to pay people more than employ all the lawyers needed to fight this ongoing battle just remember that if there's any group better at getting paid than unions, it's lawyers.
 
 At the same time that this was going on at the fruit stand, as we called that fruit-named company, its stock price was rocketing up in value.
@@ -66,7 +68,7 @@ Chances are, if you're in the US, your introduction to cooperatives has been thr
 These are great, but there's actually a much more common cooperative, and those are credit unions. 
 
 Not only are credit unions more common in the US than other coops, but they're actually pretty common around the world. 
-That makes sense since it's actually pretty hard to make money as a bank unless you're serving people who have a bunch of money, and a bunch of money is not something all that many people on Earth has.
+That makes sense since it's actually pretty hard to make money as a bank unless you're serving people who have a bunch of money, and a bunch of money is not something all that many people on Earth have.
 
 One of the interesting things about US corporate law is that corporations are very easy to own a piece of.
 Unlike moving money around, shares in a company can be owned and traded without a whole lot of problems. 
@@ -76,11 +78,15 @@ This cavalier attitude towards the shared ownership of a corporate structures ex
 
 If you've never worked for an early stage company, I'd imagine you probably aren't too familiar with how a cap table works. 
 
+![A dumb spreadsheet with made up numbers to keep rich people rich](cap-table.jpg)
+
 In the early days of a company, before it starts making money, people work for under market value and a piece of the pie. 
 The conceit is that, should the company be successful, the piece plus salary should exceed what you would've made had you worked a regular job. 
 
 Competing for these pieces then are all these employees, the investors, and the founders of the company, each of whom have an incentive for their pieces to stay as big as possible. 
 No startup I've ever worked for has shown me the cap table, but I'll vouch for the fact that when it works, it's not the worst way to make a buck. 
+That is until you realize that you made a whole bunch of other people ten bucks.
+Then you have to wrestle with whether they deserved it, or were just being greedy dickheads.
 
 I bring this up to talk about the bajillionairs of our era.
 Bezos, for example, owned nearly 50% of Amazon when it IPOed back in 1997. 
@@ -98,20 +104,13 @@ You do not need to hold on to your equity like Smaug buried deep in the Lonely M
 What would happen if someone made Amazon, but gave that near 50% out to the employees and then users of Amazon?
 I don't really know, but it kind of feels like it's worth finding out. 
 
-Considering this model of capital investiture is so ubiquitous, you might be wondering if there's some sort of legal requirement for things to be done this way. 
-Like is there some analog to the fiduciary requirement for corporate directors that makes it so founding executives have to be greedy dickheads.
-To be honest, that does sound like something the US might do.
-
-It turns out that there is no law saying you need to be a greedy dickhead. 
-People just do it because they can.
-
 ## Do we need them, or do they need us?
 
 I had the wonderful good fortune of getting into punk rock as a teenager in the Chicagoland area in the late 90s. 
 Thus my class consciousness was awakened through reading the liner notes of bands like Dillinger Four, and The Broadways. 
 
 Amongst all of the veritable jams from that time, [We'll Have a Party][party] by The Broadways (Brendan Kelly and Chris McCaughan of The Lawrence Arms' Yardbirds) became my life's ballad over time. 
-A love story put on hold as the system is torn down. 
+The song's a love story put on hold as the system is torn down. 
 Every line is gold, provoking thought and consideration of just how ludicrous and desperate the system can be. 
 Go listen. 
 I'll wait.
@@ -139,15 +138,20 @@ So in a capitalist society, the pressure from the bosses is to get you coming an
 Labor is underpaid, and then the profit garnered from that injustice is spread amongst the already wealthy. 
 And for a few centuries now, the goal we've been sold on is joining their club, and not marching them to the guillotines.
 
+----------------------------
+
 Back to my first startup, and someone leaving. 
 Does Bezos' life change all that much if his 50% becomes 48% because he had to spend a bit more to retain someone, or replace someone?
 How much does your life change if tomorrow you stopped getting paid?
 
 That's the inequality in entrepreneurialship.
-Bezos has to roll the dice on have a few less billion than all his billions.
+Bezos has to roll the dice on having a few less billions than all his billions.
 You have to roll the dice on whether you get to afford food next week.
 
 Seems like we need them more than they need us.
+
+And before anyone tries to say, oh but Bezos was risking it all, let's remember how his parents gave him six figures early in the company's history. 
+Six figures is probably what I've given my therapist over the years because of my parents.
 
 ## Robin Hood is an app for Wall Street Bros
 
@@ -155,6 +159,9 @@ The whole lose your job, and immediately become destitute is the reason why some
 We here in the US do not.
 Whether we should or not is certainly something people will debate, but I won't debate it here.
 Instead I'll just say, whereever you stand on the issue, we're unlikely to all be able to quit our jobs with government help in the next few years.
+
+![The album cover for Johnny Paycheck's Take This Job and Shove It](shove-it.jpg)
+**Ol' Johnny's gonna have to save up for a year or two before singing this one these days**
 
 So, in order to combat the gap between Bezos' 50%, and you not being able to buy groceries if he fires you, it's worth trying to figure something else out.
 For pretty much anyone whose ever had to supplement their income, we already know what that something is: you get a second job. 
@@ -175,7 +182,7 @@ Well I don't know about you, but that sounds like doing whatever it is you do wi
 I wonder if there's something we could be doing to get paid there.
 
 Every summer Games Done Quick puts on a week long marathon of video game speed runs. 
-There is a t-shirt company specializing in video game and fantasy-themed apparel.
+There is a t-shirt company called The Yetee specializing in video game and fantasy-themed apparel.
 Throughout the marathon they make sizable donations to support the runners, and the group they're raising money for which is typically Doctors Without Borders.
 
 Those donations are marketing of course, but I'd rather $10k go to Doctors Without Borders than Zuckerberg's island ruination fund.
@@ -185,6 +192,9 @@ But what if we didn't need the platform?
 
 The whole ecosystem of this speed running marathon is repeated all over the Earth in the hobbies and passions that we share with our friends. 
 They are what's engaging, and what we're good at, and by golly when you tell someone to purchase some super esoteric piece of essential paraphenelia, you should get a buck or two if they buy it.
+
+![A statue of a raccoon drinking a bottle of beer](raccoon.png.webp)
+**This bad boy retails for twelve hundred dollars. If you know why, and can articulate that to someone who buys it, I feel like you should get a cut.**
 
 ## Mr. Wonderful
 
@@ -217,13 +227,15 @@ This wasn't before the internet, but it was before the SoMa apps ruined it.
 Could we have sold more shower curtains than we did? 
 Maybe, but that would've required paying for advertising because how else would anyone find out about them?
 
-So the band and I hop online and drop a grand an ad spend, and that gets spread amongst content creators.
+Here's the hypothetical today: the band and I hop online and drop a grand on ad spend, and that gets spread amongst content creators.
 We find that our shower curtains make more money than the mediocre slop rock we play, and pivot to grow our fledgling shower curtain empire. 
 Next thing you know, we're on Shark Tank talking about how our Customer Acquisition Cost is $3.37 and Mr. Wonderful's trying to sell us on a royalty so he can bestow upon us his brand.
 
 It's sold as a win/win.
 He makes money when we make money.
-You watch the ep, and tell a friend about it, and that person goes off and buys one of our shower curtains why don't you make money?
+You watch the ep, and tell a friend about it, and that person goes off and buys one of our shower curtains...
+
+Why don't you make money?
 
 We all do that all the time with our friends and families. 
 Recommendations, opinions, enthusiastic suggestions, this isn't an anti-capitalist screed, we all buy stuff all the time, and we rely on these things from others to point us in the right direction. 
@@ -265,7 +277,7 @@ I'm relatively certain that the coiners of the term would bristle at its usage w
 
 Currently, the value you bring to these transactions is extracted from you and monetized by the gigantocorps. 
 I want to pay you for that value.
-We didn't really get into it, but these transactions run through infrastructure housed in cool spaces that you can help monetize too. 
+(We didn't really get into it, but these transactions run through [infrastructure housed in cool spaces][spaces] that you can help monetize too). 
 
 It's like a big biodome, but instead of a biome, its binary.
 A binaridome if you will. 
@@ -292,5 +304,7 @@ It's not going to be undone in a day either.
 But trust me when I say, I'm going to do my damnedest to make it fun to try.
 
 
+[planetnine]: https://wiki.planetnineisaspaceship.com
 [80000]: https://80000hours.org/career-guide/job-satisfaction/ 
 [report]: https://www.cnbc.com/2023/09/20/more-than-half-of-gen-zers-think-they-can-easily-make-a-career-in-influencing.html
+[spaces]: https://github.com/planet-nine-app/planet-nine/blob/main/FOSSialism.md
