@@ -27,7 +27,12 @@ That let's them grow bigger and bigger, unfettered by the realities of bouyancy 
 And the biggest space ship that I think most people know about is the Death Star from Star Wars, and since I want to talk about a giant boat, I'm going to use it.
 
 Wookiepedia tells me that there are 1.7 million space citizens on the Death Star, a big number to be sure, but still smaller than most cities that people can name. 
+A quora answer on big boats informs me that everyone has a job, so if we transfer that to the Death Star, we have to come up with 1.7 million jobs.
+And since 1.7 million is around the population of Phoenix, the sixth largest city in the US, that's a lot of jobs.
 
+Now just like how Galen Erso would make for an interesting dinner guest, but may not be able to speak to the intricacies of large scale kyber crystal infused mega-weapons and the intra-galactic supply chain necessary to meet imperical planet destruction schedules, the boat that is Planet Nine is a bit too large for me to explain in a single blog post. 
+So the point of this post is not to tell you how boats work, or how this one in particular works. 
+Instead, it's about how we put you to work if you come aboard. 
 
 
 
