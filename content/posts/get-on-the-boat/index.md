@@ -34,8 +34,52 @@ Now just like how Galen Erso would make for an interesting dinner guest, but may
 So the point of this post is not to tell you how boats work, or how this one in particular works. 
 Instead, it's about how we put you to work if you come aboard. 
 
+## What's our Alderaan?
 
+Too many words to say how it all works, but I can at least tell you where we're headed. 
+We're going to blow up digital advertising. 
 
+If you want to know why, ask anyone who has lost a family member to some conspiracy theory rabbit hole fed to them by an algorithm monetized through ads.
+Ask anyone whose business shuttered because they couldn't keep up with the rising cost and decreasing efficacy of Facebook ads and Google seo. 
+Ask a group of teenagers why they can't agree on what happened in the world last week since their TikTok algorithms feed them different versions of reality.
+
+And here's where the Death Star metaphor ends, because we're not going to show up and blow them all up.
+No, we're going to do it the old-fashioned way: building a better mousetrap.
+
+## So let's hear about these jobs
+
+In general, only one or two of these will be really relevant to someone on the boat. 
+If you follow the links to the Planet Nine version it'll take you to an overview of that app/project, and how the various jobs for each work. 
+
+For the **vast majority** of people, your job is to be a user.
+And being a user is super easy for whatever you want to use.
+
+### SoMa apps
+
+| Category | Examples | Product Name |
+|----------|----------|--------------|
+| Social Networking | Facebook | Basebook |
+| Chat | WhatsApp, WeChat, Telegram, Signal, SnapChat, etc | Julia |
+| Pics | Instagram, SnapChat | Photary |
+| Microblogging | Twitter, Reddit | Lexary |
+| Shotform Video | TikTok, Instagram, Reddit | Viewary |
+| Longform Video | YouTube | (TBD) |
+
+### b2b platforms
+
+| Category | Examples | Product Name |
+|----------|----------|--------------|
+| eCommerce | Shopify, BigCommerce, WooCommerce | Ninefy |
+| Marketplaces | Amazon, Etsy, eBay | Nexus |
+| Creator Economy | Patreon, Substack, ConvertKit, Ghost | Rhapsold |
+| Low-Code Plaform | Airtable, Zapier, Bubble | Ye Olde Appe Shoppe |
+
+### Brwoser extensions
+
+| Category | Examples | Product Name |
+|----------|----------|--------------|
+| Key manager | LastPass, BitWarden | The Advancement |
+| Ad blocker | Adblock Plus, uBlock, Ghostery | The Advancement |
 
 
 [planetnine]: http://wiki.planetnineisaspaceship.com
