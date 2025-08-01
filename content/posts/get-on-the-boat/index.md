@@ -58,8 +58,8 @@ And being a user is super easy for whatever you want to use.
 
 | Category | Examples | Product Name |
 |----------|----------|--------------|
-| Social Networking | Facebook | Basebook |
-| Chat | WhatsApp, WeChat, Telegram, Signal, SnapChat, etc | Julia |
+| Social Networking | Facebook | MyBase |
+| Chat | WhatsApp, WeChat, Telegram, Signal, SnapChat, etc | StackChat |
 | Pics | Instagram, SnapChat | Photary |
 | Microblogging | Twitter, Reddit | Lexary |
 | Shotform Video | TikTok, Instagram, Reddit | Viewary |
@@ -73,13 +73,24 @@ And being a user is super easy for whatever you want to use.
 | Marketplaces | Amazon, Etsy, eBay | Nexus |
 | Creator Economy | Patreon, Substack, ConvertKit, Ghost | Rhapsold |
 | Low-Code Plaform | Airtable, Zapier, Bubble | Ye Olde Appe Shoppe |
+| Professional Services | TaskRabbit, Angie | idothis.biz |
 
-### Brwoser extensions
+### Browser extensions
 
 | Category | Examples | Product Name |
 |----------|----------|--------------|
 | Key manager | LastPass, BitWarden | The Advancement |
 | Ad blocker | Adblock Plus, uBlock, Ghostery | The Advancement |
+
+### Ship building
+
+| Category | Examples | Product Name |
+|----------|----------|--------------|
+| Backend | Firebase, Supabase | allyabase |
+| UI Dev Kit | Daisy UI, UIverse  | the-nullary |
+| Protocol party | idk... | The Stack |
+| The Cloud | AWS, GCC | Hedy |
+
 
 
 [planetnine]: http://wiki.planetnineisaspaceship.com
