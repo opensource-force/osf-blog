@@ -56,7 +56,76 @@ We have an idea of what it might be.
 
 We call it a **base**.
 
-##  
+## Billions and billions
+
+When the interwebs was kicking off the dotcom boom, there were six billion or so people on the planet.
+Twenty-six years later there are eight billion. 
+In real life, we call this increase a triumph of modern medicine, in the biz we call it a scaling problem. 
+
+If you want to bore yourself nauseous for an hour, go look up system design interview prep where some dude from a faang company takes you through building out some system with eleventy-billion users and how cool they all are to have eleventy-billion users.
+He'll let you know that you need to handle a gazillion api calls an hour, and a gajillion bytes of data per call so that they can check that you know what Amazon Web Service you need to handle that kind of volume since you're definitely not building it yourself.
+
+According to Claude, here are the top ten apps by Monthly Active Users (MAUs):
+
+1. Facebook - 3.07 billion MAU Most Popular Social Media Apps in 2025 | Piktochart
+
+2. YouTube - 2.54 billion MAU Most Popular Social Media Platforms & Apps (2025)
+
+3. WhatsApp - 2 billion MAU (some sources report up to 3 billion)
+
+4. Instagram - 2 billion MAU Most Popular Social Media Apps in 2025 | Piktochart
+
+5. WeChat - 1.38 billion MAU (primarily China)
+
+6. TikTok - 1.59 billion MAU Most Popular Social Media Apps in 2025 | Piktochart
+
+7. Facebook Messenger - 947 million MAU
+
+8. Telegram - ~800 million MAU (estimated)
+
+9. Snapchat - ~750 million MAU (estimated)
+
+10. X (formerly Twitter) - 556 million MAU 
+
+Now I trust these numbers as much as a Bernie named Madhoff, but let's just take them and do some math. 
+
+First, there's a steep drop off from one to ten, and if we assume that whatever we're building is not going to hit billion user scale immediately, maybe we can take half a billion as a starting point.
+Now 500 million feels like a big number, but if we divide it by the thirty days in a month we get 16 million DAUs. 
+DAUs are of course higher than that, so, in order to make the math easier, let's say its 24 million. 
+
+That's a million users per hour if we assume a smooth average, and that's 277 users per second.
+If all of those users are making like four to five api calls that's about a thousand per second. 
+
+![A raspberry pi 5 held in front of a gorgeous landscape. It fits in the palm of a hand](./rpi5.png)
+The latest in the Raspberry Pi line.
+
+This guy above is a Raspberry Pi 5. 
+It costs a hundred dollars, and can handle a thousand api call per second no sweat. 
+I don't know, let's say I'm off by a factor of ten and twitter does ten thousand api calls per second. 
+Do you think nazi musk can afford ten of these bad boys?
+
+The question then is what do these companies need with the gigantic datacenters they're actually using. 
+As anyone whose had an empty drawer in their house knows, nature abhors a vaccuum. 
+If you're paying for computers and storage, you better be using and filling them.
+
+And that's what they're doing, filling them with every single last piece of data on _you_ that they can. 
+
+They're not doing four or five api calls per user, they're making forty or fifty, tracking every last millisecond you spend on posts and videos.
+Did you go down, and then up? 
+Did you tap for more info, check the posters profile, like, love, downvote, favorite, swipe, breathe heavily, tremble at all, you name it they're grabbing it.
+
+And why not? 
+They don't even need to pay people to analyze the data anymore. 
+They just feed it to more machines to determine what combination of colors and words and graphics will get you purchasing more. 
+
+They have to do this to pay themselves and their investors, and now that they're buying islands and rocket ships, the checks they expect look like those numbers above. 
+When things get like that, you're supposed to be able to create competition to the giant firms, but how can you possibly compete with a platform serving half of the population of the Earth?
+
+Well first we have to answer what's competition?
+
+##
+
+
 
 
 
