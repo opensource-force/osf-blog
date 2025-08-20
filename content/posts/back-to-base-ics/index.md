@@ -123,7 +123,41 @@ When things get like that, you're supposed to be able to create competition to t
 
 Well first we have to answer what's competition?
 
-##
+## The pin factory
+
+In The Wealth of Nations by Adam Smith, his first example is a pin factory. 
+It was a good in high demand back in the eighteenth century. 
+One with clear inputs, and outputs, and not a whole lot of reason for global distribution. 
+There weren't technological improvements other than in the manufacturing process, and the labor wasn't particularly skilled.
+
+One interesting thing about the economics of the eighteenth century: you couldn't move pins around the globe at close to the speed of light. 
+
+The rules of microeconomics where firms are bounded by location, and materials, are no more in a world where bits and bytes flow through tubes unfettered. 
+How on Earth, pun intended, do you start a business to compete with a business that can deliver its "goods" instantaneously to everyone? 
+
+In the biz we talk about "products."
+The product is the thing that you sell, as in the thing your customers give you money for.
+Do you give Meta money to use Instagram?
+Who does?
+
+Obviously its advertisers, and behind advertisers are businesses. 
+They buy ads, but what is it they're buying?
+
+Is it reach?
+Is it the demographics?
+Well let's talk about both of those.
+
+Reach is the whole kit and caboodle for the internet. 
+The promise that everyone in the whole world can buy what you're selling just buy you buying a domain name and setting up a small site is just as awesome today as it was thirty years ago. 
+
+As the gigantocorp platforms grew and grew, it became harder and harder (or more expensive) to break through the noise. 
+After a while, the only way for your marketing dollars to hit the ROI (return on investment) they were looking for was to "go viral."
+Guess what happens when you go viral.
+Your website tips over, and you run out of inventory, and a bunch of people get pissed, and it's like the lottery winner who's broke two years later because they can't figure out how to stay rich. 
+
+What about demographics? 
+
+
 
 
 
