@@ -156,9 +156,12 @@ Guess what happens when you go viral.
 Your website tips over, and you run out of inventory, and a bunch of people get pissed, and it's like the lottery winner who's broke two years later because they can't figure out how to stay rich. 
 
 What about demographics? 
+Facebook boasts four billion MAUs, and Instagram half of that. 
+If you're marketing something though I think you already know which app you're marketing on. 
+Before the internet, people would self-select into spaces and media to consume, and there wasn't much of a need for further segmenting within groups.
+There's not a huge overlap between the people walking into Hot Topic, and the ones walking into Abercrombie and Fitch, and there's no real need for those brands to intrude on blog posts becase the people who like them, will find them. 
 
-
-
+The premise of digital advertising is that 
 
 
 
