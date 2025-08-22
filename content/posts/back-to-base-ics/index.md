@@ -161,7 +161,56 @@ If you're marketing something though I think you already know which app you're m
 Before the internet, people would self-select into spaces and media to consume, and there wasn't much of a need for further segmenting within groups.
 There's not a huge overlap between the people walking into Hot Topic, and the ones walking into Abercrombie and Fitch, and there's no real need for those brands to intrude on blog posts becase the people who like them, will find them. 
 
-The premise of digital advertising is that 
+The premise of digital advertising is that we know everything about everyone, and thus can put exactly what they want to see right in front of them. 
+It is a ridiculous premise, which is why it's so lucrative.
+Because it's the modern equivalent of a rainmaker. 
+Did your campaign fail to make it rain because the advertisers suck, or because you didn't spend enough?
+If there's no competition, there's only one variable in your campaign to change you know?
+
+So here's our premise. 
+The selling points of digital advertising are reach, their ability to attract large numbers of humans to their platforms, and demographics, their knowledge of who you are and what you're looking to buy right now.
+And that, currently, they suck, but no one's figured out how to do these two points better.
+
+## Reach
+
+![Parker Posey from Best In Show explaining how she met her husband at the Starbucks across the street](./starbucks.jpg)
+"We met at Starbucks. Not the same Starbucks, it was actually the Starbucks across the street..."
+
+It's fun to make fun of the Starbucks across the street from each other, but there's actually a pretty good reason for it. 
+Most stores come equipped with two point-of-sale (POS) systems, and there's a maximum to how many customers can go through those systems. 
+So if a store hits that max, you open another store across the street. 
+
+This is how scaling works with computers too, and a lot of time, money, and energy is put into making sure that the machines that a platform runs on all work the same, and give people the same experience. 
+You don't _see_ the instagram across the street, but that's what's happening.
+There's no reason why you couldn't see it though.
+
+For those of you who have never played a Massively Multiplayer Online game, here's what you see when you first sign up:
+
+![The realm selection screen from World of Warcraft](./realmchoice.jpg)
+As you can see, there are quite a few Starbucks on this street.
+
+On the engineering side of things, instagram and WoW are more or less the same.
+Tons of users, tons of computation needed to serve the users, and a need for this system to never fail. 
+The difference is that WoW users expect a little more control their experience.
+
+Now, what's interesting in the MMO is that users are persistent characters, so even though the realm they choose has the same software, the _state_ of the realm is unique to the realm. 
+You can see a number of PvP realms where players can fight each other. 
+Each one of those has some sort of mini-culture around its PvP, which can define and change the game pretty significantly. 
+Sort of like how the baristas at the Starbucks across the street might affect which one you go to (no, she's not interested in you, she's just being nice). 
+
+Instagram doesn't want its users to create anything like that because it undermines their ability to control what is displayed to its users. 
+Control over what is displayed to its users is how Instagram sells advertising, which is how they make money.
+So, what is Instagram's product?
+It looks like this:
+
+![The ending scene from Clockwork Orange when Alex is forced to watch propoganda](./orange.avif)
+At least the good people in Kubrick's world were kind enough to make the science tapping into your brain visible.
+
+Maybe there's room to play with this realm idea though. 
+Give the users a little more control over what content they consume, and maybe even make it so people can setup their own realms like some games like Minecraft do.
+Not sure how to monetize it though, but we can punt on that for now.
+
+## Demographics
 
 
 
