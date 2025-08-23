@@ -212,6 +212,81 @@ Not sure how to monetize it though, but we can punt on that for now.
 
 ## Demographics
 
+I live in Portland, Oregon, and in the early tens and teens of this second millenium, there was a great show called Portlandia. 
+In the first or second episode, a proprietor of a feminist book store tells Steve Buscemi that he should head to a puzzle store to find what he's looking for.
+
+The shocked Buscemi asks, "where is there a puzzle store?"
+The proprietor responds by listing off all the locations where there are puzzle stores. 
+It cracks me up every time.
+
+Are there puzzle stores where you live?
+I'm guessing probably not. 
+They're kind of peculiar to the kind of place where grown ups take pride in being big wholesome kids and grandparents at the same time and/or smoke enough weed to require a steady stream of jigsawed cardboard to stay busy.
+
+Now if you're a puzzler in need of a fix, and you've just moved to Portland you might google up the nearest puzzle store, and then head to it.
+We'll get to **search** in a second.
+Chances are though, you found out about puzzle stores the same way as Buscemi on Portlandia: word of mouth.
+
+Marketers will tell you that nothing beats word of mouth, but I don't think we need to ask them why.
+Who're you going to trust to best understand your puzzling needs?
+A system of cold, and uncaring machines programmed by cold and uncaring people, or your friends?
+
+Your friends know you better than the machine, and more importantly know the context through which your asking. 
+The answer to, "I need a puzzle stat!" and "I need a puzzle for my nephew's birthday." might be different. 
+The machine doesn't understand your context when you search for, "puzzle stores near me," but your friends do.
+
+Well that's not entirely true.
+
+There's actually quite a bit that the machines are doing to try and understand that context.
+Is your nephew's birthday in google calendar? 
+Well then the machines know you might be looking for puzzles for his gift.
+Did you get a receipt sent to your gmail after your last puzzle purchase?
+Well then the machines know about your puzzle addiction. 
+
+Does writing a truly massive amount of software in order to spy on all digital communiques to attempt to extract what our friends do for us for free seem like an incredible waste of time and resources?
+Perhaps not, perhaps it's so efficient and successful that we humans have embraced our Orwellian present so as to more efficiently purchase socks.
+Let us check the average click-through rate of the ads served by Google and Meta, companies whose combined market cap would put them seventh, between the UK and France, in national GDP. 
+
+There's a lot of blah blah blah, and it's impossible to get a real number because these two companies are basically giant deception machines, but it's somewhere between 1 and 2 percent. 
+Let's call it 1.5%. 
+
+How often do you click on the stuff your friends send you?
+
+Now we're talking about my stack here, and while I've gotten tons of help, it's still sort of mine to shepherd for now, and so I'd like to make something quite clear.
+I think you, like all people, are cool and interesting, but if I'm going to get to know you it's going to be over coffee or beers some time, and not through the systematic harvesting and exploitative usage of your personal data. 
+I have neither the interest nor the time to do so, and I don't really trust myself to protect your personal data [from the 1337 h4x0rz of the world](https://www.breachsense.com/breaches/). 
+
+So instead of collecting all of this stuff and using it to ruin the internet, the idea is to let your friends do that work like they already do, and just give them a piece of the action. 
+
+## A tale of two cities
+
+Portland is known for a good many things, but let's focus on two right now: our general love of the outdoors--specifically those of us who like to climb things--and our sizable lesbian population. 
+There are a number of products in the world that cater to these two groups, subaru outbacks being one of the most noticeable, but for our discussion here I'd like to talk about just one.
+The humble carabiner. 
+
+![A variety of carabiners on display](./carabiners.jpg)
+Whether it's helping you survive fall to gravity, or a fall to love, this little guy's gonna have an outsized impact for the cost.
+
+For a variety of reasons, the carabiner is of rather significant importance to the two groups above.
+If you're not part of those groups already though, do you have any idea hat the difference is between all of those carabiners? 
+I don't, and it's not entirely clear where I might go to learn.
+For some things it's fine to rely on trial and error, but are you ready to trust your life, romantically or otherwise, to fate?
+
+Now let's say I'm a fashion-conscious rock-climbing lesbian with a degree in mechanical engineering, and a passion for metalurgy. 
+I start a blog called Tie the Metal Knot about finding love and carabiners in the Portland bouldering scene.
+I should of course be compensated for my expertise, and to do so I load up my poor blog with ad cancer, of which I see a fraction of a penny for every person who lands on the page.
+I also go through the hassle of becoming an affiliate at Amazon so I can get a dime from carabiners sold through my site should someone wade through the swamp of ads and actually find them, at least until that link dies because Amazon killed my preferred carabiner store's business, and now it's just a dead link amongst all the other garbage that covers up my thoughtful and interesting prose.
+
+I probably don't even need to show you a screenshot of a site set up like this, but I'm going to anyways:
+
+![A screenshot of a site taken over by two popups](./blog.png)
+Was gonna show you the ads, but can't even do that with this barely dismissable popup asking for your personal information.
+
+The hypothesis is that all of our sites are like this because there hasn't been presented a better alternative.
+If we can find a way to monetize sites as much or more through another mechanism then people will adopt that.
+But, if you make it an either/or then you need to grow big enough to compete with everyone with a gmail and/or facebook account.
+That's pretty much everyone on Earth with a computer.
+
 
 
 
