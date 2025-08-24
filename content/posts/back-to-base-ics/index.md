@@ -287,7 +287,40 @@ If we can find a way to monetize sites as much or more through another mechanism
 But, if you make it an either/or then you need to grow big enough to compete with everyone with a gmail and/or facebook account.
 That's pretty much everyone on Earth with a computer.
 
+So instead of making it either/or we worked out a way to make it whichever works better.
+If you want ad-infested garbage in front of you all the time, you can keep on doing what you've always done.
+If you want a cleaner interface that can make more _people_ and not gigantocorps money, then read on.
 
+## All about that base
+
+```
+<!DOCTYPE html>
+<head>
+</head>
+<body>
+Hello World
+</body>
+</html>
+```
+
+This ^^^ is a website.
+Your device and its browser are called the client.
+The computer that these words come from is called a server.
+
+When you type realultimatepower.net into your browser's url bar, a number of computers talk to each other to figure out where that server is and get you the words that are that website (feel free to check it out, it's pretty sweet). 
+The problem is that computers, as powerful as they are, are still finite so if your website is super popular and/or does a lot of things, you need a bunch of servers.
+That can get expensive, and people aren't big on paying for things on the internet.
+
+Now there's no real reason why the words that are a website can't come from different servers.
+In fact that's how it works right now.
+There are plenty of servers serving up google for example. 
+
+But what you don't see all that much is servers serving the same words from different domain names. 
+That's the thing those game servers are doing.
+And it's the thing the Fediverse does with Mastodon, Pixelfed, and Lemmy.[^1]
+
+That's great, but they're all still doing something that's not the best for users, namely keeping everything you do around forever and ever. 
+There's value to the platform in the permanence of the things people have and create on them. 
 
 
 
@@ -302,3 +335,5 @@ story isn't any good if he isn't in it.
 
 
 [carrier-bag]: https://monoskop.org/images/9/96/Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf
+
+[1]: If you've never heard of the Fediverse, it can be overwhelming to dive into it. So I recommend not doing that unless you're in for some deep cut tech.
