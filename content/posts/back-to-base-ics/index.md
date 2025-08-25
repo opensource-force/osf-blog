@@ -320,7 +320,42 @@ That's the thing those game servers are doing.
 And it's the thing the Fediverse does with Mastodon, Pixelfed, and Lemmy.[^1]
 
 That's great, but they're all still doing something that's not the best for users, namely keeping everything you do around forever and ever. 
-There's value to the platform in the permanence of the things people have and create on them. 
+There's value to the platform in the permanence of the things people have and create on them, because that's what these platforms are.
+Thinly veiled spying operations for advertisers.
+
+I on the other hand, and again I want this to be crystal clear, do not care what you had for brunch back in 2012.
+I don't think that should have much bearing on either of our lives.
+
+Still, someone's gotta pay to run the servers.
+
+Either I build a platform that steals your data and sells it to advertisers to sell it to businesses for businesses to sell you stuff, or you buy stuff and that pays for the servers somehow. 
+Y'all probably buy stuff online already, we just need a way to make sure the server gets paid when you do.
+
+Now in the real world when the puzzle store gets too busy, someone opens a puzzle store across the street. 
+People sort of self-select which puzzle store they pick, mostly because crossing the street is onerous. 
+
+In the digital world, people usually don't have visibility to which side of the street their server's on. 
+And when they do, like with the game servers, they usually have to pick one and stick with it so you don't lose all your stuff. 
+But if you don't have stuff to lose, what's to stop you from just picking whatever server's closest, or fastest, or pays you the most, or is run by your buddy?
+
+This kind of server is what I'm calling a base.
+And it belongs to us.
+
+## Base and essence
+
+In philosophy there's a distinction between what a thing _is_ (essence), and what it _does_ (function). 
+In software, pretty much everyone cares about essence because at a pretty fundamental level the function of computers is all the same: bytes moving around and doing things.
+A base has no inherent essence, it only has function.
+
+And that function is to monetize content creation through user transactions to businesses directly without the need for advertisement-based discovery.
+Allow me to show you the pictures of what I mean:
+
+![A picture of the transaction flow on the internet currently. Businesses pay advertisers who pay content platforms who revenue share with content creators, a needlessly convoluted system that screws humans and lines the pockets of already wealthy people](./ad-flow.svg)
+
+
+
+
+
 
 
 
