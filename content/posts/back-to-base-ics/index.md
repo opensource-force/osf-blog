@@ -21,8 +21,7 @@ kind of pouch or bag, a container for people."
 Anyone who has been drinking with me as I try to explain stacks and boats will recognize this flexibility in terminology)
 
 The gist of the theory, which comes from Elizabeth Fisher's Carrier Bag Theory of Human Evolution, is that though bags [and boats] are essential to humans, so much so that they were likely our earliest tool, they don't fit in well with the conflict-driven hero narratives of modern fiction.
-Hero worship is not just in fiction, but I would say permeates all of popular culture in the United States. 
-Whether quarterback, or diva, or pedophile-turned-president, whereas carrier bags are things you get when you donate twenty bucks to PBS, which normally you wouldn't do, but now you have to because of that stupid president.
+Hero worship is not just in fiction, but I would say permeates all of popular culture in the United States--whether quarterback, or diva, or pedophile-turned-president--whereas carrier bags are things you get when you donate twenty bucks to PBS, which normally you wouldn't do, but now you have to because of that stupid president.
 
 Le Guin writes in her essay:
 
@@ -33,8 +32,7 @@ battle," and went on about strategies, attacks, victory, etc.) Conflict,
 competition, stress, struggle, etc., within the narrative conceived as
 carrier bag I belly I box I house I medicine bundle, may be seen as
 necessary elements of a whole which itself cannot be characterized
-either as conflict or as harmony, since its purpose is neither resolu-
-tion nor stasis but continuing process.
+either as conflict or as harmony, since its purpose is neither resolution nor stasis but continuing process.
 
 > Finally, it's clear that the Hero does not look well in this bag. He
 needs a stage or a pedestal or a pinnacle. You put him in a bag and
@@ -62,7 +60,7 @@ When the interwebs was kicking off the dotcom boom, there were six billion or so
 Twenty-six years later there are eight billion. 
 In real life, we call this increase a triumph of modern medicine, in the biz we call it a scaling problem. 
 
-If you want to bore yourself nauseous for an hour, go look up system design interview prep where some dude from a faang company takes you through building out some system with eleventy-billion users and how cool they all are to have eleventy-billion users.
+If you want to bore yourself nauseous for an hour, go look up system design interview prep where some dude from a faang (this acronym is for Facebook (now Meta), Apple, Amazon, Netflix, and Google (now Alphabet). Originally Netflix, whose market cap is a fraction of the others, was included so as to avoid the unfortunate F-word acronym without it, but given Facebook being Meta now, perhaps there is a four-letter acronym that could be used instead. I leave the anagraming of that as an exercise for the reader) company takes you through building out some system with eleventy-billion users and how cool they all are to have eleventy-billion users.
 He'll let you know that you need to handle a gazillion api calls an hour, and a gajillion bytes of data per call so that they can check that you know what Amazon Web Service you need to handle that kind of volume since you're definitely not building it yourself.
 
 According to Claude, here are the top ten apps by Monthly Active Users (MAUs):
@@ -112,13 +110,17 @@ And that's what they're doing, filling them with every single last piece of data
 
 They're not doing four or five api calls per user, they're making forty or fifty, tracking every last millisecond you spend on posts and videos.
 Did you go down, and then up? 
-Did you tap for more info, check the posters profile, like, love, downvote, favorite, swipe, breathe heavily, tremble at all, you name it they're grabbing it.
+Did you tap for more info, check the poster's profile, like, love, downvote, favorite, swipe, breathe heavily, tremble at all, you name it they're grabbing it.
 
 And why not? 
 They don't even need to pay people to analyze the data anymore. 
 They just feed it to more machines to determine what combination of colors and words and graphics will get you purchasing more. 
 
-They have to do this to pay themselves and their investors, and now that they're buying islands and rocket ships, the checks they expect look like those numbers above. 
+They have to do this to pay themselves and their investors, and now that they're buying islands and rocket ships, the checks they expect look like those numbers above: billions and billions.
+Sagan wrote a book with that title, which starts by explaining he would never use that term because it's too imprecise.
+And he was a cosmologist thinking about the universe.
+If there aren't even billions and billions of things in _space_, what the heck are they doing in a handful of people's bank accounts?
+ 
 When things get like that, you're supposed to be able to create competition to the giant firms, but how can you possibly compete with a platform serving half of the population of the Earth?
 
 Well first we have to answer what's competition?
@@ -148,7 +150,7 @@ Is it the demographics?
 Well let's talk about both of those.
 
 Reach is the whole kit and caboodle for the internet. 
-The promise that everyone in the whole world can buy what you're selling just buy you buying a domain name and setting up a small site is just as awesome today as it was thirty years ago. 
+The promise that everyone in the whole world can buy what you're selling just by you buying a domain name and setting up a small site is just as awesome today as it was thirty years ago. 
 
 As the gigantocorp platforms grew and grew, it became harder and harder (or more expensive) to break through the noise. 
 After a while, the only way for your marketing dollars to hit the ROI (return on investment) they were looking for was to "go viral."
@@ -182,12 +184,13 @@ So if a store hits that max, you open another store across the street.
 
 This is how scaling works with computers too, and a lot of time, money, and energy is put into making sure that the machines that a platform runs on all work the same, and give people the same experience. 
 You don't _see_ the instagram across the street, but that's what's happening.
+
 There's no reason why you couldn't see it though.
 
 For those of you who have never played a Massively Multiplayer Online game, here's what you see when you first sign up:
 
 ![The realm selection screen from World of Warcraft](./realmchoice.jpg)
-As you can see, there are quite a few Starbucks on this street.
+As you can see, there are quite a few Starbucks on this street (this is the World of Warcraft server selection screen).
 
 On the engineering side of things, instagram and WoW are more or less the same.
 Tons of users, tons of computation needed to serve the users, and a need for this system to never fail. 
@@ -231,7 +234,7 @@ Marketers will tell you that nothing beats word of mouth, but I don't think we n
 Who're you going to trust to best understand your puzzling needs?
 A system of cold, and uncaring machines programmed by cold and uncaring people, or your friends?
 
-Your friends know you better than the machine, and more importantly know the context through which your asking. 
+Your friends know you better than the machine, and more importantly know the context through which you're asking. 
 The answer to, "I need a puzzle stat!" and "I need a puzzle for my nephew's birthday." might be different. 
 The machine doesn't understand your context when you search for, "puzzle stores near me," but your friends do.
 
@@ -244,7 +247,7 @@ Did you get a receipt sent to your gmail after your last puzzle purchase?
 Well then the machines know about your puzzle addiction. 
 
 Does writing a truly massive amount of software in order to spy on all digital communiques to attempt to extract what our friends do for us for free seem like an incredible waste of time and resources?
-Perhaps not, perhaps it's so efficient and successful that we humans have embraced our Orwellian present so as to more efficiently purchase socks.
+Perhaps not, perhaps it's so successful that we humans have embraced our Orwellian present so as to more efficiently purchase socks.
 Let us check the average click-through rate of the ads served by Google and Meta, companies whose combined market cap would put them seventh, between the UK and France, in national GDP. 
 
 There's a lot of blah blah blah, and it's impossible to get a real number because these two companies are basically giant deception machines, but it's somewhere between 1 and 2 percent. 
@@ -252,7 +255,7 @@ Let's call it 1.5%.
 
 How often do you click on the stuff your friends send you?
 
-Now we're talking about my stack here, and while I've gotten tons of help, it's still sort of mine to shepherd for now, and so I'd like to make something quite clear.
+Now we're going to start talking about my stack here, and while I've gotten tons of help, it's still sort of mine to shepherd for now, and so I'd like to make something quite clear.
 I think you, like all people, are cool and interesting, but if I'm going to get to know you it's going to be over coffee or beers some time, and not through the systematic harvesting and exploitative usage of your personal data. 
 I have neither the interest nor the time to do so, and I don't really trust myself to protect your personal data [from the 1337 h4x0rz of the world](https://www.breachsense.com/breaches/). 
 
@@ -265,10 +268,10 @@ There are a number of products in the world that cater to these two groups, suba
 The humble carabiner. 
 
 ![A variety of carabiners on display](./carabiners.jpg)
-Whether it's helping you survive fall to gravity, or a fall to love, this little guy's gonna have an outsized impact for the cost.
+Whether it's helping you survive a fall to gravity, or a fall to love, this little guy's gonna have an outsized impact for the cost.
 
 For a variety of reasons, the carabiner is of rather significant importance to the two groups above.
-If you're not part of those groups already though, do you have any idea hat the difference is between all of those carabiners? 
+If you're not part of those groups already though, do you have any idea what the difference is between all of those carabiners? 
 I don't, and it's not entirely clear where I might go to learn.
 For some things it's fine to rely on trial and error, but are you ready to trust your life, romantically or otherwise, to fate?
 
@@ -282,7 +285,7 @@ I probably don't even need to show you a screenshot of a site set up like this, 
 ![A screenshot of a site taken over by two popups](./blog.png)
 Was gonna show you the ads, but can't even do that with this barely dismissable popup asking for your personal information.
 
-The hypothesis is that all of our sites are like this because there hasn't been presented a better alternative.
+The hypothesis is that all of our sites are like this because there isn't a better alternative.
 If we can find a way to monetize sites as much or more through another mechanism then people will adopt that.
 But, if you make it an either/or then you need to grow big enough to compete with everyone with a gmail and/or facebook account.
 That's pretty much everyone on Earth with a computer.
@@ -321,7 +324,10 @@ And it's the thing the Fediverse does with Mastodon, Pixelfed, and Lemmy.[^1]
 
 That's great, but they're all still doing something that's not the best for users, namely keeping everything you do around forever and ever. 
 There's value to the platform in the permanence of the things people have and create on them, because that's what these platforms are.
-Thinly veiled spying operations for advertisers.
+
+Whether servers in the Fediverse, or Bluesky are selling this data or not is debatable. 
+That they're being scraped, for free, by tons and tons of other platforms for data is not. 
+As the platforms grow, they become more expensive to run, and even Mark Cuban's Bluesky money is finite, especially if he runs for president, so how do you foresee them monetizing should they live long enough to become the villain?
 
 I on the other hand, and again I want this to be crystal clear, do not care what you had for brunch back in 2012.
 I don't think that should have much bearing on either of our lives.
@@ -348,7 +354,8 @@ In software, pretty much everyone cares about essence because at a pretty fundam
 A base has no inherent essence, it only has function.
 
 And that function is to monetize content creation through user transactions to businesses directly without the need for advertisement-based discovery.
-Allow me to show you the pictures of what I mean:
+Allow me to show you the pictures of what I mean.
+Here is the current monetization flow of the internet:
 
 ![A picture of the transaction flow on the internet currently. Businesses pay advertisers who pay content platforms who revenue share with content creators, a needlessly convoluted system that screws humans and lines the pockets of already wealthy people](./ad-flow.svg)
 
@@ -363,7 +370,7 @@ Here's the picture:
 ![A picture of the transaction flow with bases. There's money flowing to people and not spyware gigantocorps](./base.svg)
 Please note the use of the color green to indicate money flowing into your pockets. 
 
-This is what a base _does_ it lets you join along with other members of whatever group/community/horde might care about the base to figure out ways of buying things on the internet that pays the group/community/horde and not already rich dududes buying up land in Hawaii.
+This is what a base _does_ it lets you join along with other members of whatever group/community/horde might care about the base to figure out ways of buying things on the internet that pays the group/community/horde and not already rich dudes buying up land in Hawaii.
 
 How it does this is up to the group/community/horde that uses it. 
 You wanna create a gaming store community where everyone gets a piece of the action when some hot new cardboard drops? 
@@ -372,7 +379,7 @@ You wanna create a safe space for new parents to exchange hand-me-downs, and sha
 You can do that.
 
 Bases are easy to join, and easy to leave.
-Don't want o hear about the latest SCOTUS news for one freaking minute? 
+Don't want to hear about the latest SCOTUS news for one freaking minute? 
 Just leave that base.
 Need to get your fix after you cool down?
 Rejoin the base.
@@ -402,24 +409,36 @@ Start a base with your friends, make money, tell google, amazon, and meta to kic
 If it doesn't work, you turn the computer off and hand it to your niece or nephew to play roblox on or something.
 
 If you make a dollar though, and I don't know anything about you, it will make me so happy.
+
 So don't tell me about it.
+
 Tell your friends.
-
-
-
-
-
-
 
 > So the Hero has decreed through his mouthpieces the
 Lawgivers, first, that the proper shape of the narrative is that of the
-arrmv or spear, starting heTe and going straight there and THOK!
-hitting its mark (which drops dead); second, that the central con-
-cern of narrative, including the novel, is conflict; and third, that the
+arrow or spear, starting here and going straight there and THOK!
+hitting its mark (which drops dead); second, that the central concern of narrative, including the novel, is conflict; and third, that the
 story isn't any good if he isn't in it.
 
+I don't want to be a hero, and there is no narrative arc here.
+I just think it's high time the regular folk had a carrier bag (or boat!) of there own.
+One they can load up with bananas, and socks, and mall ninja shit, and empty at home without having to sign their life away to companies the size of governments. 
+
+That's why I go by planetnineisaspaceship.
+I'm easy enough to find if you'd like, it's not a very effective pseudonym. 
+It's a reminder that the spaceship, the boat, the carrier bag is the purpose.
+
+If you've setup a server before, or even if you haven't you can check out the [allyabase repo here][allyabase].
+
+If you haven't setup a server before, I'd recommend watching a video or two on how to setup a minecraft server as those usually have what you need in them. 
+
+This system is in production, but also a definite work in progress. 
+If you run into any issues find me on discord or email me at zach at planetnine dot app. 
 
 
+
+[planetnine]: https://github.com/planet-nine-app/planet-nine
 [carrier-bag]: https://monoskop.org/images/9/96/Le_Guin_Ursula_K_1986_1989_The_Carrier_Bag_Theory_of_Fiction.pdf
+[allyabase]: https://github.com/planet-nine-app/allyabase
 
 [1]: If you've never heard of the Fediverse, it can be overwhelming to dive into it. So I recommend not doing that unless you're in for some deep cut tech.
