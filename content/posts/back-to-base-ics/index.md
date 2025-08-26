@@ -352,7 +352,58 @@ Allow me to show you the pictures of what I mean:
 
 ![A picture of the transaction flow on the internet currently. Businesses pay advertisers who pay content platforms who revenue share with content creators, a needlessly convoluted system that screws humans and lines the pockets of already wealthy people](./ad-flow.svg)
 
+In this picture users and content creators are linked to businesses via advertisers and content platforms.
+Again, most of us buy stuff online, it's not that we want _all_ businesses to go away, but having the advertisers and content platforms as the link between us makes businesses, and consumers beholden to them for our needs.
+Beholden is just another word for exploitable.
+And in economics, whenever you can exploit a resource, you're going to be making money.
 
+Remember, we're talking about what a base _does_, not what it _is_. 
+Here's the picture: 
+
+![A picture of the transaction flow with bases. There's money flowing to people and not spyware gigantocorps](./base.svg)
+Please note the use of the color green to indicate money flowing into your pockets. 
+
+This is what a base _does_ it lets you join along with other members of whatever group/community/horde might care about the base to figure out ways of buying things on the internet that pays the group/community/horde and not already rich dududes buying up land in Hawaii.
+
+How it does this is up to the group/community/horde that uses it. 
+You wanna create a gaming store community where everyone gets a piece of the action when some hot new cardboard drops? 
+Go for it.
+You wanna create a safe space for new parents to exchange hand-me-downs, and share in the profit when someone just has to have a brand new stroller?
+You can do that.
+
+Bases are easy to join, and easy to leave.
+Don't want o hear about the latest SCOTUS news for one freaking minute? 
+Just leave that base.
+Need to get your fix after you cool down?
+Rejoin the base.
+
+Different platforms can drift off the same bases, and you can have multiple versions of the same platform connected to different bases.
+Don't want to think about all of this?
+Just join a base where someone else thinks about it for you.
+
+I don't have all the answers, so I'm not going to build a system that tries to tell you what to do.
+I just want to build a system that takes money from gigantocorps and gives it to you.
+This is what I came up with.
+
+## Conclusion
+
+You know how everything's getting more expensive?
+How those great spaces for kids, and cafes that won't kick you out for just having a coffee keep closing?
+How you really want to buy from anywhere but Amazon, but man is it just too convenient to be able to order from your couch, and have some overworked and underpaid blue-vest-wearing sap run up your walk so they can stay on their delivery schedule?
+
+A base is just a computer, and computers can be small. 
+Look up.
+Could you stick a shelf up above eye level with a machine or two on it processing transactions, and making you, or your favorite cafe, or a non-profit you contribute to money?
+
+[People are already doing this with home servers, but they're renting them out to folks so they can scrape data around the internet for advertising.](https://packetstream.io) 
+
+Be the change you want to see.
+Start a base with your friends, make money, tell google, amazon, and meta to kick rocks.
+If it doesn't work, you turn the computer off and hand it to your niece or nephew to play roblox on or something.
+
+If you make a dollar though, and I don't know anything about you, it will make me so happy.
+So don't tell me about it.
+Tell your friends.
 
 
 
