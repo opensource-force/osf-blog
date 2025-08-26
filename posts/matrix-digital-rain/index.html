@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Writing a Matrix Digital Rain
+        
+    </title>
+
+        
+            <meta property="og:title" content="Writing a Matrix Digital Rain" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Writing a Matrix Digital Rain<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-01-14</time>
+                    
+
+                    
+                        :: Updated on <time>2025-01-14</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <p>Author: <a href="https://github.com/wick3dr0se">wick3dr0se</a></p>
+<h1 id="writing-a-matrix-digital-rain"><a class="zola-anchor" href="#writing-a-matrix-digital-rain" aria-label="Anchor link for: writing-a-matrix-digital-rain">Writing a Matrix Digital Rain</a></h1>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/matrix-digital-rain/matrix.gif" alt="matrix digital rain gif" /></p>
+<p>Writing a terminal based matrix digital rain is fairly simple; Even utilizing raw ANSI escape sequences, we can make one in under 20 lines of code with a shell scripting language like Bash. Similarly in most programming languages</p>
+<p>For simplicity of the article, we won't implement starting position, random initial character highlighting or anything too fancy. This implementation utilizes the <a href="https://vt100.net/docs/vt510-rm/SGR.html">Select Graphic Rendition</a>, specifically the 4-bit green color sequence for portability as well</p>
+<p>For a full-featured implementation, check out the <a href="https://github.com/wick3dr0se/matrix">matrix digital rain I wrote in Bash</a> (the inspiration for this post!)</p>
+<h2 id="why-bash"><a class="zola-anchor" href="#why-bash" aria-label="Anchor link for: why-bash">Why Bash?</a></h2>
+<p>Bash is an excellent choice for this, because Bash comes pre-installed nearly everywhere. Most of the time it's the default shell interpreter. When writing pure Bash, it's super portable and easy to write. Generally Bash performs pretty well if usage of shell invoking procedures (such as command substituion) and external calls are limited</p>
+<h2 id="concept"><a class="zola-anchor" href="#concept" aria-label="Anchor link for: concept">Concept</a></h2>
+<p>This is just a general, base concept for a minimal matrix digital rain</p>
+<p>My mind works well off concepts - In hopes it could help you, I'll leave this here to give some context on the implementation</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>Trap exit - cleanup
+</span><span>Initialize terminal
+</span><span>Loop forever
+</span><span>    {
+</span><span>        Calculate random column
+</span><span>        Calculate random speed
+</span><span>        Calculate random symbol length
+</span><span>        Loop - over terminal lines
+</span><span>            Calculate random symbol
+</span><span>            Print down calculated column
+</span><span>            If iteration &gt; symbol length, erase
+</span><span>            Sleep (print speed)
+</span><span>    } Send to background
+</span><span>    Sleep (print frequency)
+</span></code></pre>
+<h2 id="implementation"><a class="zola-anchor" href="#implementation" aria-label="Anchor link for: implementation">Implementation</a></h2>
+<p>You don't have to use raw ANSI escape sequences, you can use an abstraction like <code>tput</code> or a <a href="https://github.com/wick3dr0se/bashin">TUI library I wrote</a> for writing scripts exactly like this one, among others of course. But for performance and portability's sake, it benefits to utilize ANSI escapes</p>
+<p>Let's start by initializing the terminal. How this works is up to you but I would utilize the terminal's alternative buffer and disable the cursor. Using the alternative buffer has the advantage of disabling scrolling and allowing us to reset the terminal to its initial state</p>
+<p>These sequences are <a href="https://vt100.net/docs/vt100-ug/">VT100 ANSI escape sequences</a>, which are the standard, that terminal manipulation libraries abstract away</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#8fa1b3;">init_term</span><span>() {
+</span><span>    </span><span style="color:#65737e;"># \e is an escape sequence
+</span><span>    </span><span style="color:#65737e;"># the following sequences switch to the alternative buffer and hide the cursor
+</span><span>    </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[?1049h\e[?25l</span><span>&#39;
+</span><span>
+</span><span>    </span><span style="color:#65737e;"># sets terminal x and y to COLUMNS/LINES respectively
+</span><span>    </span><span style="color:#96b5b4;">shopt</span><span> -s checkwinsize; (</span><span style="color:#96b5b4;">:</span><span>;</span><span style="color:#bf616a;">:</span><span>)
+</span><span>}
+</span></code></pre>
+<p>This is where it gets a little interesting! We have to do some basic equations. Here we utilize Bash's builtin <code>$RANDOM</code> variable to give us a random integer in the specified range. First we should calculate our symbols starting column, then our symbols printing delay and finally the amount of symbols to print down a column. We should loop over the terminal lines plus symbol length and calculate a random symbol</p>
+<p>Now it's time to put all our random calculations to work! Simply print the random symbol to the calculated column down the iterated row (line) and follow up behind the symbol length with an erase sequence. Wrapping up our rain function, sleep with the calculated delay to give the rain varying speed. Almost there! This is the bulk of it, and the entire complexity of the implementation</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#8fa1b3;">rain</span><span>() {
+</span><span>    </span><span style="color:#65737e;"># random column between 1-terminal columns
+</span><span>    ((symbolCol=RANDOM%COLUMNS+</span><span style="color:#d08770;">1</span><span>))
+</span><span>    
+</span><span>    </span><span style="color:#65737e;"># random sleep delay between 1-9
+</span><span>    ((symbolSpeed=RANDOM%</span><span style="color:#d08770;">9</span><span>+</span><span style="color:#d08770;">1</span><span>))
+</span><span>    
+</span><span>    </span><span style="color:#65737e;"># random length between 2-10
+</span><span>    ((symbolLen=RANDOM%</span><span style="color:#d08770;">9</span><span>+</span><span style="color:#d08770;">2</span><span>))
+</span><span>
+</span><span>    </span><span style="color:#65737e;"># walk the terminal lines + symbol length
+</span><span>    </span><span style="color:#b48ead;">for </span><span>(( i = </span><span style="color:#d08770;">0</span><span>; i &lt;= LINES+symbolLen; i++ )); </span><span style="color:#b48ead;">do
+</span><span>        </span><span style="color:#65737e;"># random symbol
+</span><span>        </span><span style="color:#bf616a;">symbol</span><span>=&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">SYMBOLS</span><span>:</span><span style="color:#a3be8c;">RANDOM</span><span>%$</span><span style="color:#a3be8c;">{</span><span>#</span><span style="color:#bf616a;">SYMBOLS</span><span style="color:#a3be8c;">}</span><span>:</span><span style="color:#d08770;">1</span><span style="color:#a3be8c;">}</span><span>&quot;
+</span><span>
+</span><span>        </span><span style="color:#65737e;"># print green symbol down calculated column
+</span><span>        </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[%d;%dH\e[32m%s\e[m</span><span>&#39; &quot;$</span><span style="color:#bf616a;">i</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbolCol</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbol</span><span>&quot;
+</span><span>        
+</span><span>        </span><span style="color:#65737e;"># erase after symbol length 
+</span><span>        (( i &gt; symbolLen )) &amp;&amp; </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[%d;%dH\e[m </span><span>&#39; &quot;$</span><span style="color:#a3be8c;">((i</span><span>-</span><span style="color:#a3be8c;">symbolLen))</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbolCol</span><span>&quot;
+</span><span>        
+</span><span>        </span><span style="color:#65737e;"># rain (printing) speed
+</span><span>        </span><span style="color:#bf616a;">sleep </span><span>&quot;</span><span style="color:#a3be8c;">0.</span><span>$</span><span style="color:#bf616a;">symbolSpeed</span><span>&quot;
+</span><span>    </span><span style="color:#b48ead;">done
+</span><span>}
+</span></code></pre>
+<p>After defining our functions, the script is super simple, only requiring a run forever loop and call to our rain function, sent to the background, with a short sleep delay to prevent our rain from absolute downpour and potential CPU havoc. Modifying the terminal state is completely optional but worth it</p>
+<p>Defining some symbols as a string</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#bf616a;">SYMBOLS</span><span>=&#39;</span><span style="color:#a3be8c;">0123456789!@#$%^&amp;*()-_=+[]{}|;:,.&lt;&gt;?</span><span>&#39;
+</span></code></pre>
+<p>Then we should probably trap some terminal cleanup so that we can reset our terminal state. Although one could just opt to close the terminal, skipping deinitializing and trapping interrupts entirely. Arguably the next step should be done first but in TUI scripts, it's common to define signal handlers before calling functions</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#96b5b4;">trap </span><span>&#39;</span><span style="color:#a3be8c;">printf &quot;\e[?1049l\e[?25h&quot;</span><span>&#39; SIGEXIT
+</span></code></pre>
+<p>Next, we initialize the terminal by calling our init_term function</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#bf616a;">init_term
+</span></code></pre>
+<p>To finish it off, we execute the run forever loop, call our rain function in the background and sleep between calls for density</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#65737e;"># loop forever
+</span><span style="color:#b48ead;">for</span><span>((;;)) {
+</span><span>    </span><span style="color:#65737e;"># call it and send it to the background
+</span><span>    rain &amp;
+</span><span>
+</span><span>    </span><span style="color:#65737e;"># rain density
+</span><span>    sleep 0.1
+</span><span>}
+</span></code></pre>
+<p>That's all!! Here is the entire implementation of our matrix digital rain in pure Bash using raw ANSI escape sequences, in under 20 lines of code!</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#8fa1b3;">init_term</span><span>() {
+</span><span>    </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[?1049h\e[?25l</span><span>&#39;
+</span><span>    </span><span style="color:#96b5b4;">shopt</span><span> -s checkwinsize; (</span><span style="color:#96b5b4;">:</span><span>;</span><span style="color:#bf616a;">:</span><span>)
+</span><span>}
+</span><span>
+</span><span style="color:#8fa1b3;">rain</span><span>() {
+</span><span>    ((symbolCol=RANDOM%COLUMNS+</span><span style="color:#d08770;">1</span><span>))
+</span><span>    ((symbolSpeed=RANDOM%</span><span style="color:#d08770;">9</span><span>+</span><span style="color:#d08770;">1</span><span>))
+</span><span>    ((symbolLen=RANDOM%</span><span style="color:#d08770;">9</span><span>+</span><span style="color:#d08770;">2</span><span>))
+</span><span>
+</span><span>    </span><span style="color:#b48ead;">for </span><span>(( i = </span><span style="color:#d08770;">0</span><span>; i &lt;= LINES+symbolLen; i++ )); </span><span style="color:#b48ead;">do
+</span><span>        </span><span style="color:#bf616a;">symbol</span><span>=&quot;$</span><span style="color:#a3be8c;">{</span><span style="color:#bf616a;">SYMBOLS</span><span>:</span><span style="color:#a3be8c;">RANDOM</span><span>%$</span><span style="color:#a3be8c;">{</span><span>#</span><span style="color:#bf616a;">SYMBOLS</span><span style="color:#a3be8c;">}</span><span>:</span><span style="color:#d08770;">1</span><span style="color:#a3be8c;">}</span><span>&quot;
+</span><span>
+</span><span>        </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[%d;%dH\e[32m%s\e[m</span><span>&#39; &quot;$</span><span style="color:#bf616a;">i</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbolCol</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbol</span><span>&quot; 
+</span><span>        (( i &gt; symbolLen )) &amp;&amp; </span><span style="color:#96b5b4;">printf </span><span>&#39;</span><span style="color:#a3be8c;">\e[%d;%dH\e[m </span><span>&#39; &quot;$</span><span style="color:#a3be8c;">((i</span><span>-</span><span style="color:#a3be8c;">symbolLen))</span><span>&quot; &quot;$</span><span style="color:#bf616a;">symbolCol</span><span>&quot;
+</span><span>        </span><span style="color:#bf616a;">sleep </span><span>&quot;</span><span style="color:#a3be8c;">0.</span><span>$</span><span style="color:#bf616a;">symbolSpeed</span><span>&quot;
+</span><span>    </span><span style="color:#b48ead;">done
+</span><span>}
+</span><span>
+</span><span style="color:#96b5b4;">trap </span><span>&#39;</span><span style="color:#a3be8c;">printf &quot;\e[?1049l\e[?25h&quot;</span><span>&#39; exit
+</span><span>
+</span><span style="color:#bf616a;">SYMBOLS</span><span>=&#39;</span><span style="color:#a3be8c;">0123456789!@#$%^&amp;*()-_=+[]{}|;:,.&lt;&gt;?</span><span>&#39;
+</span><span>
+</span><span style="color:#bf616a;">init_term
+</span><span>
+</span><span style="color:#b48ead;">for</span><span>((;;)) { rain &amp; sleep 0.1; }
+</span></code></pre>
+<p>I hope the post was thorough and able to teach you something! If not, well sorry, I tried! Anyway, you're more than welcome to <a href="https://github.com/wick3dr0se/matrix">support the project</a> by dropping a star on GitHub!</p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>

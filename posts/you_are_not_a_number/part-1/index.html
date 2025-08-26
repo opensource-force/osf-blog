@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Part 1 - You are not a number
+        
+    </title>
+
+        
+            <meta property="og:title" content="Part 1 - You are not a number" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Part 1 - You are not a number<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-02-02</time>
+                    
+
+                    
+                        :: Updated on <time>2025-02-02</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <p><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-1/./numbers.svg" alt="Some of the numbers you are known by like phone number" /></p>
+<p>I started college in 2000.
+There were a few mobile phones in the US back then (they were much more prevalent across the Pacific at that time), mostly in cars.
+I still remember the giant magnetized antenna that we plopped on top of our car just in case my parents needed to make a call on the side of the road.</p>
+<p>I didn't have a car though, nor did I have a phone.
+I received calls like most of the rest of my dorm on a single handset hung from the wall, and dispatched to from the school's switchboard.
+The phone would ring, someone would pick it up, and then shout out through the halls for whomever was supposed to answer.</p>
+<p>Nothing weird there at all.</p>
+<p>This set up in 2000 just so happened to overlap with the advent of loyalty programs in retailers.
+To this day, I reckon you could probably take the main phone number of every college and university in the US, and use it to invoke any loyalty program at a retailer that was around back in 2000.
+I still use my school's number from time to time, and it always works.</p>
+<p>When I did get my first cell phone, I picked up a number in the 312 area of downtown Chicago because it was, and is cool.
+I will hold on to that number for all time.
+I do not want to share it with Krogers and Piggly-Wigglies, and I don't need to be texted thirty times a day <a href="https://en.wikipedia.org/wiki/Facebook,_Inc._v._Duguid">because Facebook didn't want to pay some poor guy $10k for pestering him</a>.</p>
+<p>What I want instead is to use my alma mater's number for everything, and leave my cool number for my cool friends.
+But all those darn 'puters need me to be "me" so they send me a text for verification, and that can't go to that handset on the wall, and I don't live there anymore anyways so it doesn't work.</p>
+<h2 id="you-are-not-a-handle">You are not a handle</h2>
+<p>When I was maybe twelve or thirteen I "invented" a mythology.
+I guess to go back even further, when I was in grammar school, I exhausted the school library's entries on mythology.
+Pantheons, and the stories they create have been one of my many obsessions.</p>
+<p>My mythology was the pantheon of the Ephesians, a group I only knew existed from random bible passages since Wikipedia had not been invented yet.
+It included maybe twelve gods and goddesses, which fit into the sophisticated mind of a boy in the midst of puberty.</p>
+<p>I only remember a few, like Betedoun, the Ephesian god of war.
+He was responsible for sending a meteor to kill the dinosaurs, because he didn't think they were cool enough iirc.</p>
+<p>The leader of this divine group was Ramdatookisodom, Ephesian god of sexual tendencies.
+Before you ask, yes this name purposefully contains two not-so-veiled references to anal sex.
+To twelve year old Catholic me, some pagan deity tappin' everything around him was about as iconclastic as I could get. And since the Greeks' Zeus had already filled the role of banging everything that moves for procreation, I had to get a little creative.</p>
+<p>It was right around this time that my Dad got us a Compuserve account, and I started going online.
+Stranger Danger being a thing even before the internet, I somehow had enough sense not to use my real name online, so when I had to identify myself, I used the name of one of my creations: Ramdatooki.
+How's that for dodging the vulgarity filters :tap-forehead:.</p>
+<p>A few years later when it became time to start getting in touch with colleges, I made the grown up decision to retire Ramdatooki as my handle, and update to something more sophisticated: zkpunk @ hotmail.com.</p>
+<p>Then gmail burst on the scene, and they nailed the false demand created by artificial constraint by keeping their service invite-only for years.
+Through some connections to the more 31337 parts of the internet (4chan) I was able to score an invite, and secured the coveted firstnamelastname @ gmail.com.
+Afaict there is only one other Zach Babb, and him and I seem to be around the same age, and we compete for signing up first for things.
+It's a friendly competition for me.
+I hope he feels the same.</p>
+<p>Then the socials came, where it mattered who you were to some (Facebook), and to others you could be pseudonymous (Twitter and Reddit).
+Handles proliferated so much that services created just to link to your online personas were created and actually monetizable (according to <a href="https://www.adamenfroy.com/linktree-alternatives">this</a> there are at least sixteen of these services around).</p>
+<p>So who am I?</p>
+<p>Ramdatooki, Zweibel (the german word for onion, but before I knew that I named myself after <a href="https://theonion.com/t-herman-zweibel-in-memoriam-1819583647/">T. Herman Zweibel</a>), zkpunk, zachbabb at gmail/me/mac/icloud, zach at planetine/zkbabb, CurvatureTensor, planetnineisaspaceship...?</p>
+<p>Who are you?</p>
+<br>
+<hr />
+<br>
+<p><a href="/osf-blog/posts/you_are_not_a_number/part-2">Continue on to part 2</a></p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>

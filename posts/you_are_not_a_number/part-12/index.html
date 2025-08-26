@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Part 12 - The First Charge
+        
+    </title>
+
+        
+            <meta property="og:title" content="Part 12 - The First Charge" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Part 12 - The First Charge<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-02-02</time>
+                    
+
+                    
+                        :: Updated on <time>2025-02-02</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <h2 id="you-are-not-a-number">You are not a number</h2>
+<p>In the sixties Patrick McGoohan wrote, directed, and starred in an incredible 17 episode show called The Prisoner.
+In it McGoohan plays a spy who attempts to retire, and for doing so is sent to a mysterious island as a prisoner.
+The opening of the show always features a shadowy character named Number 2 who tells McGoohan that they need information, and that McGoohan is Number Six.
+To this, McGoohan responds:</p>
+<p>"I am not a number, I am a free man!"</p>
+<p><a href="https://www.youtube.com/watch?v=0a1_v-BJ-Wc&amp;t=118"><img src="https://img.youtube.com/vi/0a1_v-BJ-Wc/0.jpg" alt="Youtube video of the opening of The Prisoner" /></a></p>
+<p>Turning human beings into numbers is a dehumanizing act akin to calling them animals or statistics.
+It makes it easier to convince yourself that you're doing the right thing, because there's no way all those poeple are going to figure it out.
+After all, they were dumb enough to become numbers.</p>
+<p>But I'd imagine that faced by some similarly nefarious captor dictating to us just what number we had to be, our reactions might be similar to McGoohan's... unless we were actual prisoners where this is exactly what happens.
+And at the risk of a reductio ad Hitler, let's also remember how the nazis assigned numbers to Jewish people and members of other groups they wanted to extinguish.</p>
+<h4 id="a-brief-aside-on-how-computers-work-and-how-we-can-t-get-rid-of-numbers-all-together">A brief aside on how computers work, and how we can't get rid of numbers all together</h4>
+<p>Ok, so letters in computers are called chars, and an ordered group of chars is called a string.
+These are represented inside of the computer as zeros and ones in a system called binary.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-12/./binary.png" alt="An image showing &quot;hello world&quot; in binary" /></p>
+<p>But even that is an abstraction over high and low voltages within the actual circuitry of the chips in the computer.</p>
+<p>And so we could say that some computer representation of you was high-high-low-high, and try to convince people that that wasn't a number, but then smart alecs would be like, "oh yeah, but high and low are like five volts and zero volts so it's still really a number."
+And then all of this would devolve into some barroom discussion of the semantic metaphysics of Maxwell's equations, and while that would be fun for a bit, we'd have lost sight of the fact that billionaires are counting us to get bogged down in semantics rather than revolting.</p>
+<p>So we can't get totally away from numbers on computers.</p>
+<p>But.</p>
+<h2 id="nothing-says-you-can-t-be-lots-of-numbers">Nothing says you can't be lots of numbers</h2>
+<h4 id="the-green-lantern">The Green Lantern</h4>
+<p>My first job out of high school was as a barista at Starbucks.
+Being 19 years old, and having to work at five in the morning, wasn't my favorite, but the coffee helped.
+To maximize my ability to intake the coffee, because Howard Schultz forbade you take a second to drink some once the customers start coming in, I would mix hot coffee and iced coffee together.
+To this day, I prefer my coffee luke warm, much to the horror of my wife, and probably you the reader.</p>
+<p>For lack of other prospects I stuck around with the company and worked my way up to manager.
+The partners at my first store called my luke warm coffee a green lantern.
+Because when you have a unique drink, that becomes your name at the store.</p>
+<h4 id="lazer">Lazer</h4>
+<p>We used to play punk rock softball on Wednesdays back then.
+Chicago has a special breed, played barehanded with a sixteen inch ball.
+We'd play 30 to a side, forties in hand, in parks around the city.</p>
+<p>Athletic ability was not our forte, we were band and theater kids, not jocks, and for some reason I was one of the few people who could throw from third to first with accuracy.
+One night I made a throw and someone (I remember who, but won't dox him here) was like, "damn dude, that was like a laser!"
+And from that night on, I was Lazer to that group.
+There are still some people who only know me as that.</p>
+<h4 id="zachary">Zachary</h4>
+<p>How many people would you say you've introduced yourself to?
+Let's call it a couple thousand.
+For me most of those people know me as what I introduced myself as, Zach.</p>
+<p>There are more than ten, but less than twenty people that know me as Zachary.
+Sadly that number has dwindled as people have aged, and time has taken them.
+It's what my family calls me.</p>
+<p>Who was I in my early twenties?
+The professional Green Lantern, the wild partier Lazer, or Zachary--just some kid trying to find his way in the world?
+Do we not all have these kind of personas?</p>
+<p>And aren't we all entitled to not have to share the antics of Lazer with our job and our family?
+Anyone who's been fired from a job, or trapped in a political polemic with a family member because of a Facebook post knows the answer to that one.</p>
+<h3 id="billions-and-billions">Billions and billions</h3>
+<p>If you're the type to hang around the interwebs and join things chances are you've had a password or two stolen, and dumped onto the dark web.
+Maybe you're already using a password manager because of that, or otherwise making sure passwords are unique across different logins.
+What if we could do the same with email?</p>
+<p>Oho! You exclaim, I already know about adding a + to the end of the first part of my email and making new ones like zach+anotheremail@planetnine.app.
+But that's just an alias to your original email.
+I'm talking about just a random new email that you never look at, or have to worry about.</p>
+<p>Did you know you can just like setup an email server, and give yourself names?
+People don't really do it that much because there's all this bullshit that the big email providers (google) have added to make sure people don't just get spammed all the time.
+I'll leave it to you to decide whether they're succeeding at keeping the spam at bay, or simply ensuring they're the only spam providers around.</p>
+<p>Thing is though, nothing is stopping you from <em>receiving</em> emails.</p>
+<p>Now let me ask you this, when's the last time you sent a jaunty personal email to a friend just for fun?
+For the two people who said recently, does the email you used to do that need to be the same email you use to sign in to things?</p>
+<p>How's about the next thing you sign up for we use an email like: C6B20666-6AF4-4DF6-AB57-9F47A429D415@iamnotanumber.com?
+Did you look up to see if this is the same uuid as before?
+Does it matter?</p>
+<p>And what if even the domain proliferated so that sometimes you were @iamnotanumber.com, and sometimes you were @oligarchymorelikeolibarfy.com?</p>
+<p>And what if all this happened for free, and all you had to do was turn a browser extension on?</p>
+<p>And then maybe that random app free trial you signed up for can just go away rather than email you every other day to come back and subscribe.</p>
+<h4 id="what-about-my-phone-number">What about my phone number?</h4>
+<p>Have you seen The Wire?
+If you haven't you should immediately stop reading this, and dedicate the next five seasons worth of tv you watch to the greatest show ever made.
+If you have, you know just how easy it is to get burner phone numbers.</p>
+<p>It isn't your number that matters for the six numbers the website sends you, it's the notion that that phone number is attached to a device that's on your person at all times.
+So long as we get that code to something that fits that bill then we're good.
+And again that's the browser extension that gives you a burner number, and then fills in the code.</p>
+<p>At least that's the short-term solution.
+Long-term, we become our own carrier with some kind of rotating number system that follows the law, and doesn't get shared with gigantocorps.
+But Rome wasn't built in a day.</p>
+<h2 id="the-advancement-s-first-charge">The Advancement's first charge</h2>
+<p>The collective effort to undo the damage The Advertisement has wrought is called The Advancement, and this is its first charge.
+<em>Proliferate</em> identities across cyberspace, and do so with something so easy to use, that all anyone has to do is install it.
+You don't have to lose the ability to be yourself, but you gain the ability to be whomever you want.</p>
+<h2 id="getting-creative">Getting creative</h2>
+<p>A surprising amount of the way I interpret the world comes from playing the original Final Fantasy when I was like six or seven lol.
+When you start that game, you select four characters, and you give them a name.
+Your entry point into this world is this ontological decision about who you are, and who is coming along with you.</p>
+<table><thead><tr><th style="text-align: center"><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-12/./ff1.png" alt="The first final fantasy&#39;s character generation screen" /></th></tr></thead><tbody>
+<tr><td style="text-align: center"><em>Final Fantasy fans will recognize the names here as four character representations of the series' final bosses. I'll leave it to the fans to guess how to do the next one in four characters</em></td></tr>
+</tbody></table>
+<p>Voice acting ruined this subtle yet powerful notion.
+<em>I</em> was no longer the protagonist in my game, and my party was no longer my friends.
+I was just a passenger on a ride packaged up for me in design studios around the world--still fun to be sure, but missing just that little something.</p>
+<p>I talked much earlier about handles, and how I've had different ones over the years.
+In games like these I could have the same handle, and be different things.
+Zach the fighter, Zach the paladin, and Zach the, ahem, treasure hunter, each had different incredible adventures.</p>
+<p>The whole of the digital realm I could be whomever or whatever I wanted.
+Companies could give me structure to fit myself into, or some lack of structure to explore.
+The notion that you had to be yourself was so anathema that you would never even dream of sharing personal information in some random chat room.</p>
+<p>You'd drop into a chat room, get bombarded with "asl," and only fools would actually drop the correct answers to those questions.
+And in this way the creepy old men would self-select by "being" totally legal teen women who would go off together and have criminally unsatisfying lesbian cybersex.</p>
+<p>And the rest of us who weren't there because nudey pics still downloaded too slowly were the most interesting group of philosophers, scientists, inventors, artists, and writers ever assembled--it didn't matter that in real life we were whatever we were, and we didn't have to share our phone numbers to get there.
+That's what the internet's for goshdarnit!</p>
+<p>I want this back.</p>
+<br>
+<hr />
+<br>
+<p><a href="/osf-blog/posts/you_are_not_a_number/part-13">Continue to part 13</a></p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>

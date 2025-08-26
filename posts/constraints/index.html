@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Constraints
+        
+    </title>
+
+        
+            <meta property="og:title" content="Constraints" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Constraints<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-01-12</time>
+                    
+
+                    
+                        :: Updated on <time>2025-01-12</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <p>Author: <a href="https://github.com/cyypherus">cyypherus</a></p>
+<h1 id="constraints"><a class="zola-anchor" href="#constraints" aria-label="Anchor link for: constraints">Constraints</a></h1>
+<p>Over the last year or so I've been on-and-off building a rust UI layout crate called <a href="https://github.com/cyypherus/backer">backer</a>. The project started with a very naive approach, as things usually do, where the layout tree is traversed, each node splitting the available area into segments or reducing the area available to children for padding.</p>
+<p>Perfect! It couldn't be more simple, why do frameworks complicate this so much! Let's try our first layout.</p>
+<p>I want to put my content in a row, with a fixed size-button in the first segment.</p>
+<pre data-lang="rust" style="background-color:#2b303b;color:#c0c5ce;" class="language-rust "><code class="language-rust" data-lang="rust"><span style="color:#96b5b4;">row</span><span>(vec![
+</span><span>  </span><span style="color:#96b5b4;">my_button</span><span>()
+</span><span>    .</span><span style="color:#96b5b4;">width</span><span>(</span><span style="color:#d08770;">200.</span><span>)
+</span><span>    .</span><span style="color:#96b5b4;">height</span><span>(</span><span style="color:#d08770;">100.</span><span>),
+</span><span>  </span><span style="color:#96b5b4;">space</span><span>(),
+</span><span>])
+</span></code></pre>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/1.png" alt="1" /></p>
+<p>This is fine, now what happens when the available area decreases?</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/2.png" alt="2" /></p>
+<p>Well, the entire naive approach falls apart, everything is bad, &amp; I am bad at software.</p>
+<h2 id="onward"><a class="zola-anchor" href="#onward" aria-label="Anchor link for: onward">Onward!</a></h2>
+<p>So how should we handle the case where the parent is "offered" less space than it's child needs? There needs to be some interaction between a container and it's contents to ensure that we respect things like fixed size, <em>minimum size, or maximum size</em>.</p>
+<p>Anyone who builds UI is more than familiar with the beloved concept of <strong>constraints</strong>, &amp; I needed to beef up my approach quite a bit. How should a constraint system be written &amp; more importantly, how should it behave?</p>
+<p>First things first, containers must check with their contents to see if there are any constraints they should follow to avoid ugly overlap like we saw earlier. The ideal result should look something like this.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/3.png" alt="3" /></p>
+<p>The yellow segment has nothing in it, so it has no reason not to compress to make room for the element with the fixed size. It should be gladly willing to compress to a width of 0.</p>
+<p>Along with this requirement, we want to respect minimum / maximum constraints as well. Say we are laying out a row of elements that all have constraints on their widths. Our list of constraints looks like this:</p>
+<pre data-lang="rust" style="background-color:#2b303b;color:#c0c5ce;" class="language-rust "><code class="language-rust" data-lang="rust"><span style="color:#96b5b4;">row</span><span>(vec![
+</span><span>  </span><span style="color:#96b5b4;">one</span><span>()
+</span><span>    .</span><span style="color:#96b5b4;">width_range</span><span>(</span><span style="color:#d08770;">50.0</span><span>..</span><span style="color:#d08770;">75.0</span><span>), </span><span style="color:#65737e;">// &gt;=50 &amp;&amp; &lt;=75
+</span><span>  </span><span style="color:#96b5b4;">two</span><span>()
+</span><span>    .</span><span style="color:#96b5b4;">width_range</span><span>(</span><span style="color:#d08770;">110.0</span><span>..</span><span style="color:#d08770;">150.0</span><span>), </span><span style="color:#65737e;">// &gt;=110 &amp;&amp; &lt;=150
+</span><span>  </span><span style="color:#96b5b4;">three</span><span>()
+</span><span>    .</span><span style="color:#96b5b4;">width_range</span><span>(..</span><span style="color:#d08770;">10</span><span>), </span><span style="color:#65737e;">// &lt;=10
+</span><span>  </span><span style="color:#96b5b4;">four</span><span>()
+</span><span>    .</span><span style="color:#96b5b4;">width_range</span><span>(</span><span style="color:#d08770;">150</span><span>..), </span><span style="color:#65737e;">// &gt;=150
+</span><span>])
+</span></code></pre>
+<p>We have 400 units of space to divvy up, what's next?</p>
+<p>How do we fairly allocate space to each of the elements without breaking their constraints &amp; ensuring we use <strong>exactly</strong> 400 units of space?</p>
+<h1 id="dread"><a class="zola-anchor" href="#dread" aria-label="Anchor link for: dread">Dread</a></h1>
+<p>If you take a moment to consider it, this is actually quite tricky. The simplest approach I can imagine is to start with a guess, say, even allocation, and then nudge by tiny increments until the constraints are satisfied. Unfortunately, this can't possibly scale well, and nudging floats is terribly ugly. Surely the internet has some quick answers!</p>
+<p>Well, seems like all we need is a <a href="https://en.wikipedia.org/wiki/Constraint_satisfaction_problem">constraint solver</a>.</p>
+<p>&amp; it looks like the common solution in modern software is something called the <a href="https://en.wikipedia.org/wiki/Cassowary_(software)">Cassowary algorithm?</a></p>
+<p>&amp; oh, god, cassowary is not simple at all. It's heavy on some linear arithmetic &amp; it has some strange features that I don't necessarily even want - like the ability for constraints to be broken based on their level of priority?</p>
+<p>This doesn't seem to be a problem that is solved frequently, or at least not in a form I'm able to find.</p>
+<p>Anyhow, it's been effective in the past for me to let hard problems steep a while (in my head), &amp; what else is there to do when you can't solve something?</p>
+<h1 id="aha-the-algorithm-appears"><a class="zola-anchor" href="#aha-the-algorithm-appears" aria-label="Anchor link for: aha-the-algorithm-appears">Aha! The Algorithm Appears</a></h1>
+<p>The solution arrives! (I think I was in the shower when it popped into my head, lol)</p>
+<p>Back to our example, 400 units to divvy, &amp; 4 elements with width constraints.</p>
+<p>Let's start with even distribution.</p>
+<p>First we will check if any elements constraints are not satisfied with our initial state.</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>[100] (50..75) Bad!
+</span><span>[100] (110..150) Bad!
+</span><span>[100] (..10) Bad!
+</span><span>[100] (150..) Bad!
+</span></code></pre>
+<p>We then shift the allocated amounts to the nearest amount that satisfies the constraints of each element.</p>
+<p>The initial offering, 100, is the red line. The colored rectangles are the valid ranges that we need to satisfy, &amp; the amount we're shifting from the initial allocation is shown by the pale red / pink lines.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/4.png" alt="4" />
+<img src="https://opensource-force.github.io/osf-blog/posts/constraints/5.png" alt="5" /></p>
+<p>When we take space from an element we end up with extra space that needs to be filled - a surplus.
+Likewise, when we give space to an element we are using space we may or may not have - a defecit.</p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>[75] (50..75) 
+</span><span>[110] (110..150)
+</span><span>[10] (..10) 
+</span><span>[150] (150..)
+</span><span>
+</span><span>Defecit: 10 + 50 = 60
+</span><span>Surplus: 90 + 15 = 105
+</span><span>
+</span><span>Pool: 105 - 60 = 45
+</span></code></pre>
+<p>We're now left with satisfied constraints, but some extra space in the pool that needs to be filled.</p>
+<p>We need to redistribute the surplus <strong>without</strong> breaking any constraints, &amp; the only way to guarantee we aren't breaking constraints is to sort the elements by the amount of space they're allowed to consume.</p>
+<p>Both element one and element three are at their limit, but element two and four can both consume more space if needed.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/6.png" alt="6" /></p>
+<p>We can now distribute excess starting with even distribution, or the smallest amount an element can consume - whichever is smaller.</p>
+<p>In our case, we're lucky enough that the pool can be distributed evenly among the candidates but in other cases we have to make the distribution in increments (using the sort I mentioned) to ensure we don't step over any constraint boundaries.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/7.png" alt="7" /></p>
+<pre style="background-color:#2b303b;color:#c0c5ce;"><code><span>*Distribute 45 to the two available elements*
+</span><span>[75] (50..75) Good!
+</span><span>[110 + 22.5 = 132.5] (110..150) Good!
+</span><span>[10] (..10) Good!
+</span><span>[150 + 22.5 = 172.5] (150..) Good!
+</span></code></pre>
+<p>And finally, we've got a way to smoothly resolve constraints. The algorithm I've described is the <a href="https://github.com/cyypherus/backer/blob/0.11.1/src/layout.rs#L428">algorithm</a> backer boasts today &amp; the only reason ultra-smooth layout constraint resolution like this is possible with crates like the wonderful <a href="https://github.com/emilk/egui">egui</a>.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/constraints/nice.gif" alt="nice" /></p>
+<p>Thanks for reading &amp; happy coding :)</p>
+<hr />
+<hr />
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>

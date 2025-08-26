@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Part 5 - Aristophanes was right
+        
+    </title>
+
+        
+            <meta property="og:title" content="Part 5 - Aristophanes was right" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Part 5 - Aristophanes was right<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-02-02</time>
+                    
+
+                    
+                        :: Updated on <time>2025-02-02</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <h2 id="oauth-and-web-2-0">OAuth, and Web 2.0</h2>
+<p>In 2006 a relatively minor player in this narrative joined the party.
+Twitter quickly made waves because it was, by the standards of the time, open.
+If you were cool, people with twitter could tweet right from your site.</p>
+<p>Eventually Twitter's openness ran into the problem that every open thing does, which is that bandits show up to shut down the party.
+In this case, the trouble was that people entering their Twitter password into random websites wasn't the best security practice.</p>
+<p>To save the people from themselves, some very smart computer folk got together and came up with a protocol called OAuth.
+It's successor OAuth2.0 would become as close to singularly dominant as software gets, being the method used by Google, Meta, Microsoft, and thus anything that uses them for authentication.
+The original <a href="https://www.rfc-editor.org/rfc/rfc5849">OAuth rfc</a> is a pithy 38 pages, and well worth the read if you want to know more about auth.</p>
+<p>So what is oauth?
+Well basically it says that you cannot be trusted to sign into things, so instead you'll just sign in to things you trust like Google and/or Meta, and they'll handle, out of the goodness of their hearts, the hard part of keeping you safe from the internet bandits.
+For their troubles, they'll get an ongoing list of every service you use from now until the end of time.</p>
+<p>Sounds like an even trade right?</p>
+<h3 id="the-smart-phone">The smart phone</h3>
+<p>In January of 2007, Steve Jobs stepped onto the Apple stage in his trademark black turtleneck, and told the world that Apple had put an iPod in a phone with the internet.
+Missing the opportunity to call it the phoneputer, the iPhone would launch that summer starting the smart phone on the trajectory towards arguably the most important product category on Earth.
+The first android devices would launch the next year.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-5/./steve.jpg" alt="Steve Jobs unveils the iPhone" /></p>
+<p>In 2005, only about 10-15% of humans owned computers, and none of those who did could take them <em>everywhere</em> and use them <em>all the gosh darn time.</em>
+Fifteen years later, half of all humans owned computers, with almost all of that half owning a tiny computer that was coming with them everywhere they go.
+And pretty much all of them were signed in to Google and Facebook.</p>
+<h3 id="the-cloud">The cloud</h3>
+<p>2007 was an auspicious year for humanity's story with computers.
+A plucky book selling company named Amazon had grown to a large enough size that they were having trouble keeping everyone's carts up to date.
+To address this, they built a system called Dynamo (now branded as DynamoDB), and presented it to the world in <a href="https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf">a paper</a> at an ACM conference in the fall.</p>
+<p>It was a watershed moment in distributed systems design because it allowed for the system to run on a large number of (relatively) cheap machines, as opposed to the hugely expensive enterprise systems available at the time.
+People started wondering if they could lease time on these servers, and AWS was born.</p>
+<p>The second iPhone, and the nascent android phones came with app stores.
+This significantly lowered the barrier of entry for developers to reach users, while also providing a rapidly growing userbase eager to use their crispy new devices.
+Speed was the name of the game, and if app creators could offload the boring backend stuff to someone as prestegious as Amazon, what was a few bucks a month?</p>
+<p>This setup for backend stuff was collectively called the Cloud, and if you were around in 06 and 07 you heard it ad nauseum, but no one could explain what the heck the Cloud was.
+So allow me.</p>
+<p>The Cloud meant that instead of buying and owning the computer(s) your software ran on, you could rent computers from someone else.
+Whether that was good or bad at the time I think could be discussed, but it certainly doesn't seem great now that two of the three largest cloud platforms are run by the world's largest advertiser, and the eCommerce shop that sells you all the garbage you get advertised to about.</p>
+<p>This was nearly twenty years ago.
+Moore's Law suggests that machines are 1,000 times more powerful today.
+Wright's Law suggests that that should correlate to a 90% decrease in price.</p>
+<p><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-5/./aws.png" alt="The substantial growth of Amazon&#39;s web service&#39;s revenue growth" /></p>
+<p>Do you feel like things in the cloud are 90% cheaper?</p>
+<br>
+<hr />
+<br>
+<p><a href="/osf-blog/posts/you_are_not_a_number/part-6">Continue to part 6</a></p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>

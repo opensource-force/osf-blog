@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en" class="dark light">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="base" content="https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;">
+
+    
+
+    
+    
+    
+    <title>
+         Part 8 - The cell saga
+        
+    </title>
+
+        
+            <meta property="og:title" content="Part 8 - The cell saga" />
+        
+     
+
+     
+         
+     
+
+     
+         
+    
+
+    
+    
+
+    
+    
+        <link href=https://opensource-force.github.io/osf-blog/fonts.css rel="stylesheet" />
+    
+
+    
+    
+
+    
+    
+        <script src=https://opensource-force.github.io/osf-blog/js/codeblock.js></script>
+    
+
+    
+    
+
+    
+    
+
+    
+
+    
+    <link rel="alternate" type="application/atom+xml" title="" href="https://opensource-force.github.io/osf-blog/atom.xml">
+
+
+    
+    
+        <link rel="stylesheet" type="text/css" href=https://opensource-force.github.io/osf-blog/theme/light.css />
+        <link rel="stylesheet" type="text/css" href="https://opensource-force.github.io/osf-blog/theme/dark.css" media="(prefers-color-scheme: dark)" />
+    
+
+    <!-- Set the correct theme in the script -->
+    <script src=https://opensource-force.github.io/osf-blog/js/themetoggle.js></script>
+    
+        <script>
+            if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                setTheme("dark");
+            } else {
+                setTheme("light");
+            }
+        </script>
+    
+
+    <link rel="stylesheet" type="text/css" media="screen" href=https://opensource-force.github.io/osf-blog/main.css />
+
+    
+
+    <script src=https://opensource-force.github.io/osf-blog/js/mermaid.js></script>
+
+    <script defer src="https://opensource-force.github.io/osf-blog/search_index.en.js?h=04149f84ea812dea62f6"></script>
+        <script defer src="https://opensource-force.github.io/osf-blog/js/searchElasticlunr.min.js?h=3626c0ef99daa745b31e"></script></head>
+
+
+<body>
+    <div class="content">
+        <header>
+    <div class="main">
+        
+            <a href=https:&#x2F;&#x2F;opensource-force.github.io&#x2F;osf-blog&#x2F;></a>
+        
+
+
+        <div class="socials">
+            
+        </div>
+    </div>
+
+    <nav>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./posts style="margin-left: 0.25em">&#x2F;posts</a>
+        
+            <a href=https://opensource-force.github.io/osf-blog/./about style="margin-left: 0.25em">&#x2F;about</a>
+        
+
+        
+        <button 
+            id="search-button"
+            class="search-button"
+            title="$SHORTCUT to open search"
+        >
+            <img 
+                src="https://opensource-force.github.io/osf-blog/search.svg" 
+                alt="Search" 
+                class="search-icon"
+            >
+        </button>
+
+        <div id="searchModal" class="search-modal js" role="dialog" aria-labelledby="modalTitle">
+            <div id="modal-content">
+                <h1 id="modalTitle" class="page-header">Search</h1>
+                <div id="searchBar">
+                    <input 
+                        id="searchInput" 
+                        role="combobox" 
+                        autocomplete="off" 
+                        spellcheck="false" 
+                        aria-expanded="false" 
+                        aria-controls="results-container" 
+                        placeholder="Search..."
+                    />
+                    <button 
+                        id="clear-search" 
+                        class="clear-button"
+                        title="Clear search"
+                    >
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -960 960 960">
+                            <path d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <div id="results-container">
+                    <div id="results-info">
+                        <span id="zero_results" style="display: none;">No results</span>
+                        <span id="one_result" style="display: none;">1 result</span>
+                        <span id="many_results" style="display: none;">$NUMBER results</span>
+                    </div>
+                    <div id="results" role="listbox"></div>
+                </div>
+            </div>
+        </div>
+        
+
+        
+    </nav>
+</header>
+
+
+        
+        
+    
+<main>
+    <article>
+        <div class="title">
+            
+            
+    <div class="page-header">
+        Part 8 - The cell saga<span class="primary-color" style="font-size: 1.6em">.</span>
+    </div>
+
+
+                <div class="meta">
+                    
+                        Posted on <time>2025-02-02</time>
+                    
+
+                    
+                        :: Updated on <time>2025-02-02</time>
+                    
+
+                    
+
+                    
+                    
+
+                    
+                    
+
+                    
+
+                </div>
+        </div>
+
+        
+
+        
+        
+
+        <section class="body">
+            <h2 id="two-factorin">Two-factorin'</h2>
+<p>So it's the late aughts, you're Google, you have a near monopoly on where people are logging in because they're all using your email, and now, thanks to the benevolence of your Android operating system, you know everyone's phone numbers, and can even construct a social graph similar to Facebook's via access to people's contacts.
+There's just one rub: that darn iPhone's around, and Apple doesn't want to share.</p>
+<p>So the braintrust came up with the genius idea of making you're already secure accounts <em>even more secure</em> by adding two-factor authentication via sms.
+Google released this 2FA in 2011 because the world was clearly unable to function without it up until that point.</p>
+<p>The rise of two-factor authentication via sms provides an important lesson on how additional complexity often leads to <em>less</em> security, and not more.
+Whenever you deal with consumers who might be miffed if you lose all their data, you need to provide a way for them to recover accounts.
+Most of the time you do that via email.
+But what do you do if the account they care about is email?</p>
+<p>Google, and others with 2FA, said, "no problem, we'll just use your phone number."
+But then the question became what if you had your phone stolen, or you lost it.
+Well then the security of 2FA would be dependent on the carriers' ability to protect your interests.</p>
+<table><thead><tr><th style="text-align: center"><img src="https://opensource-force.github.io/osf-blog/posts/you_are_not_a_number/part-8/./bandit.jpeg" alt="A sim swap image, with a bandit dressed like the bandit he is" /></th></tr></thead><tbody>
+<tr><td style="text-align: center"><em>If only all bandits would show up in uniform</em></td></tr>
+</tbody></table>
+<p>Now I've worked retail, and I have the utmost respect for people who do, and their capabilities.
+I do not have much faith in the corporations who pay these good people a pittance to be on their frontline.
+A company who does that, probably isn't going to put much thought into making sure you're you when you go to replace your phone.</p>
+<p>The vulnerability here wasn't exposed for a while because, despite how you might feel, the Harry Potter fanfic in your google drive isn't all that valuable.
+But when crypto became valuable enough for bandits to want to steal, they started stealing people's phone numbers by just going into stores and requesting sim cards as that person in what's called a <a href="https://en.wikipedia.org/wiki/SIM_swap_scam">SIM swap attack</a>.</p>
+<h3 id="where-you-at">Where you at?</h3>
+<p>Now you might be wondering what's the big deal with phone numbers in the first place.
+If you're old like me you might remember a time when we just published all our phone numbers in a book, with our name and addresses, and then gave everyone that book for free.
+If you're not old like me I'd be curious what your thoughts are on that practice.</p>
+<p>Have you ever wondered what the cell in cellular refers to?
+I hadn't until I started researching this whole rigamarole.</p>
+<table><thead><tr><th style="text-align: center"><img src="https://www.researchgate.net/profile/Jianjun-Yang-3/publication/263316201/figure/fig2/AS:667618981715968@1536184177139/A-topology-of-a-cellular-network.png" alt="A simple sketch of the cells in a cellular network" /></th></tr></thead><tbody>
+<tr><td style="text-align: center"><em>A cellular network</em></td></tr>
+</tbody></table>
+<p>Our phones communicate wirelessly, and since they're small, the distance that they can communicate at is fairly limited.
+So to accommodate them, cell towers are setup every so often around the Earth for them to connect to.
+These towers define a cell, and as you travel the Earth your phone switches from tower to tower as you move from cell to cell.</p>
+<p>Now the telecomms companies aren't supposed to provide this data to anyone, but <a href="https://www.vice.com/en/article/fcc-propose-fines-verizon-att-sprint-tmobile-selling-location-data/">of course they do</a>, because when they got caught the FCC fined them a whole $200 million, a little under one dollar for everyone whose location they were selling.
+But even if the telecomms didn't sell this data, your phone would report it back anyways through background networking tasks, or just plain old checking your phone at a red light.</p>
+<p>Now location wouldn't be that big of a deal I guess if you didn't have at your disposal the largest database of location-based info on Earth.
+But of course the company doing all of this <em>was</em> the company with the largest database of location-based info on Earth. Almost as if this whole getcha phone to getcha location was planned or something.</p>
+<p>And what do you do with all this info?
+Well you know that creepy thing that happens sometimes where you were talking about a thing with a friend and then you start getting ads for it?
+Well I have no doubt that sometimes you're being listened to, but most of the time what's happening is that one of you googles that thing, and then because google (and the rest of the gigantocorps for that matter) know that you were with that person, the ad netwroks serve you an ad about that thing too.</p>
+<br>
+<hr />
+<br>
+<p><a href="/osf-blog/posts/you_are_not_a_number/part-9">Continue to part 9</a></p>
+
+        </section>
+    </article>
+</main>
+
+
+
+        
+            
+        
+
+        
+    </div>
+</body>
+
+</html>
